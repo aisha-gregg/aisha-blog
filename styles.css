@@ -1,6 +1,8 @@
 :root{
     --text-color: hsl(0, 0%, 13%);
     --link-color: hsl(0, 0%, 13%);
+    --primary-color:pink;
+    --unit-size:8px;
 }
 
 * {
@@ -17,4 +19,16 @@ body  {
 a {
     color: var(--link-color);
     text-decoration: none;
+}
+
+.link {
+    border:1px solid pink;
+    background-color: var(--primary-color);
+    padding-left: var(--unit-size);
+    padding-right: var(--unit-size);
+}
+
+nav{ 
+    display: flex;
+    justify-content: center;
 }
