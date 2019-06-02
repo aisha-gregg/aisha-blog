@@ -1,8 +1,10 @@
 :root{
     --text-color: hsl(0, 0%, 13%);
     --link-color: hsl(0, 0%, 13%);
-    --primary-color:pink;
-    --unit-size:8px;
+    --menu-font-size: 18px;
+    --body-font-size: 16px;
+    --primary-color: rgb(170, 43, 64);
+    --unit-size: 8px;
 }
 
 * {
@@ -15,22 +17,26 @@ body  {
     max-width: 800px;
     color: var(--text-color);
     border: 3px solid #a20d44;
-      
+   font-size: var(--body-font-size);
 }
 
 a {
     color: var(--link-color);
     text-decoration: none;
+    font-size: var(--menu-font-size);
 }
 
 .link {
-    border:1px solid pink;
+    color: beige;
     background-color: var(--primary-color);
-    padding-left: var(--unit-size);
-    padding-right: var(--unit-size);
+    margin-left: var(--unit-size);
+    margin-right: var(--unit-size);
+    padding: 4px 20px;
+    border-radius: 5px
 }
 
 nav{ 
     display: flex;
     justify-content: center;
 }
+    
