@@ -14,6 +14,8 @@ body  {
     margin: 0 auto;
     max-width: 800px;
     color: var(--text-color);
+    border: 3px solid #a20d44;
+      
 }
 
 a {
