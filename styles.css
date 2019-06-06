@@ -19,18 +19,26 @@
 
 body  {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    margin: var(--unit-size) auto;
-    max-width: 800px;
     color: var(--text-color);
     background-color: white;
-    border: 2px solid var(--primary-color);
     font-size: var(--body-font-size);
-    padding: var(--unit-size) var(--unit-size-m);
     line-height: 1.6;
+    display: flex;
+    justify-content: center;
 }
 
-html{
-    background-color: var(--secondary-color);
+.wrapper {
+    border: 2px solid var(--secondary-color);
+    max-width: 1000px;
+    margin: var(--unit-size) ;
+    background-color:white;
+    display:flex;
+}
+
+.menu { 
+    display: flex;
+    flex-direction: column;
+    padding: var(--unit-size-xs);
 }
 
 a {
@@ -42,14 +50,16 @@ a {
 .link {
     color: white;
     background-color: var(--primary-color);
-    margin-left: var(--unit-size);
-    margin-right: var(--unit-size);
     padding: var(--unit-size-xss) var(--unit-size-s);
     border-radius: 5px
 }
 
-nav{ 
-    display: flex;
-    justify-content: center;
+
+.about-me {
+    padding: var(--unit-size-m);
+    border-radius: 5px;
 }
-    
+
+.about-me__introduction {
+    background-color: pink;
+}
