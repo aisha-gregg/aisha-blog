@@ -1,7 +1,7 @@
 :root{
     --text-color: hsl(0, 0%, 13%);
     --link-color: hsl(0, 0%, 13%);
-    --menu-font-size: 18px;
+    --menu-font-size: 20px;
     --body-font-size: 16px;
     --primary-color: rgb(170, 43, 64);
     --secondary-color: #330c22;
@@ -20,46 +20,69 @@
 body  {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: var(--text-color);
-    background-color: white;
+    background-color: var(--primary-color);
     font-size: var(--body-font-size);
-    line-height: 1.6;
+    line-height: 2;
+
     display: flex;
     justify-content: center;
 }
 
+img {
+    max-width: 100%;
+}
+
+.title{ 
+    font-family: Georgia, 'Times New Roman', Times, serif;     
+    justify-content: center;
+    text-decoration-line: underline;
+}
 .wrapper {
     border: 2px solid var(--secondary-color);
     max-width: 1000px;
     margin: var(--unit-size) ;
-    background-color:white;
+    background-color:rgb(255, 255, 255);
     display:flex;
 }
 
 .menu { 
     display: flex;
     flex-direction: column;
-    padding: var(--unit-size-xs);
+    padding: var(--unit-size-m);
+    
 }
+
 
 a {
     color: var(--link-color);
-    text-decoration: none;
+    text-decoration:none ;
     font-size: var(--menu-font-size);
 }
 
 .link {
     color: white;
     background-color: var(--primary-color);
-    padding: var(--unit-size-xss) var(--unit-size-s);
-    border-radius: 5px
+    padding: var(--unit-size-xs) var(--unit-size-xxs);
+    border-radius: 3px
 }
 
 
-.about-me {
+.opening {
     padding: var(--unit-size-m);
-    border-radius: 5px;
+    
 }
 
 .about-me__introduction {
-    background-color: pink;
+    background-color: white;
+ }
+
+ .about-me__description {
+     display: flex;
+ }
+
+.profile-pic{
+}
+
+
+.p1{
 }
