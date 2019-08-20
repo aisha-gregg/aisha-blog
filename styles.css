@@ -1,88 +1,115 @@
-:root{
-    --text-color: hsl(0, 0%, 13%);
-    --link-color: hsl(0, 0%, 13%);
-    --menu-font-size: 20px;
-    --body-font-size: 16px;
-    --primary-color: rgb(170, 43, 64);
-    --secondary-color: #330c22;
-    --unit-size: 8px;
-    --unit-size-xss: 4px;
-    --unit-size-xs: 16px;
-    --unit-size-s: 24px;
-    --unit-size-m: 32px;
-    --unit-size-l: 64px;
+@import url("https://fonts.googleapis.com/css?family=Calligraffitti&display=swap");
+
+:root {
+  --text-color: hsl(0, 0%, 13%);
+  --link-color: hsl(0, 0%, 13%);
+  --heading-font-size: 60px;
+  --body-font-size: 20px;
+  --primary-color: white;
+  --secondary-color: rgb(122, 216, 241);
+  --unit-size: 8px;
+  --unit-size-xss: 4px;
+  --unit-size-xs: 16px;
+  --unit-size-s: 24px;
+  --unit-size-m: 32px;
+  --unit-size-l: 64px;
 }
 
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
-body  {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    color: var(--text-color);
-    background-color: var(--primary-color);
-    font-size: var(--body-font-size);
-    line-height: 2;
-
-    display: flex;
-    justify-content: center;
+h1 {
+  font-family: "Calligraffitti", cursive;
+  font-size: var(--heading-font-size);
+  text-align: center;
 }
 
-img {
-    max-width: 100%;
+h2 {
+  font-family: "Courier New", Courier, monospace, Helvetica, sans-serif;
+  font-size: var(--body-font-size);
+  text-align: center;
 }
 
-.title{ 
-    font-family: Georgia, 'Times New Roman', Times, serif;     
-    justify-content: center;
-    text-decoration-line: underline;
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: var(--text-color);
+  background-color: var(--primary-color);
+  font-size: var(--body-font-size);
+  line-height: 2;
 }
+
 .wrapper {
-    border: 2px solid var(--secondary-color);
-    max-width: 1000px;
-    margin: var(--unit-size) ;
-    background-color:rgb(255, 255, 255);
-    display:flex;
+  min-width: 1000px;
 }
 
-.menu { 
-    display: flex;
-    flex-direction: column;
-    padding: var(--unit-size-m);
-    
+.main-links a:link {
+  color: black;
+  padding: 10px;
 }
 
-
-a {
-    color: var(--link-color);
-    text-decoration:none ;
-    font-size: var(--menu-font-size);
+.main-links a:visited {
+  color: black;
 }
 
-.link {
-    color: white;
-    background-color: var(--primary-color);
-    padding: var(--unit-size-xs) var(--unit-size-xxs);
-    border-radius: 3px
+.main-links a:hover {
+  background-color: var(--secondary-color);
+  border-radius: 15px;
 }
 
-
-.opening {
-    padding: var(--unit-size-m);
-    
+.photo-logo {
+  width: 50%;
+  position: absolute;
+  top: 50px;
 }
 
-.about-me__introduction {
-    background-color: white;
- }
-
- .about-me__description {
-     display: flex;
- }
-
-.profile-pic{
+.contact img {
+  max-width: 30px;
+}
+.contact {
+  position: relative;
+  left: 1000px;
+  top: -50px;
 }
 
+div.photo-menu {
+  height: 25%;
+  max-width: 80%;
+  padding-left: 120px;
+  padding-top: 10px;
+  background-repeat: no-repeat;
+  background-color: var(--secondary-color);
+  position: relative;
+  left: 100px;
+  top: -45px;
+  border-radius: var(--unit-size-m);
+}
 
-.p1{
+.profile-photo {
+  height: 600px;
+  position: relative;
+  top: -40px;
+  margin-left: 30%;
+  flex: 50%;
+  border-radius: var(--unit-size-m);
+}
+
+.container {
+  display: grid;
+  grid-gap: 40px;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.travelphoto {
+  height: 300px;
+  border-radius: 50%;
+}
+
+.travelphoto:hover {
+  transform: scale(1.2);
+}
+
+.title1 {
+  background-color: azure;
 }
