@@ -1,0 +1,40 @@
+.travelphoto {
+  height: 350px;
+  border-radius: 50%;
+  max-width: 80%;
+}
+
+.blog-title {
+  overflow: visible;
+  font-size: 30px;
+  font-style: oblique;
+  opacity: 0;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  color: white;
+  transition: 0.5s ease opacity;
+}
+.menu1 {
+  display: flex;
+  text-align: top;
+  z-index: 1;
+}
+
+.blog-title p:hover {
+  opacity: 1;
+}
+
+.container {
+  display: grid;
+  grid-gap: 30px;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.p {
+  background-color: rgb(121, 211, 238);
+}
+.morocco-blog {
+  margin: auto 30;
+  padding: 200px;
+  padding-top: 10px;
+}

@@ -1,0 +1,64 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.main-links a:link {
+  color: black;
+  padding: 10px;
+}
+
+.main-links h2 {
+  display: inline-block;
+}
+
+.main-links a:visited {
+  color: black;
+}
+
+.main-links a:hover {
+  background-color: var(--secondary-color);
+  border-radius: 15px;
+}
+
+.photo-logo {
+  width: 50%;
+  position: absolute;
+  top: 50px;
+  right: 23%;
+  z-index: -1;
+}
+
+.contact img {
+  max-width: 30px;
+}
+
+.contact {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.contact a {
+  padding: 0px 5px;
+}
+
+div.photo-menu {
+  height: 10px;
+  max-width: 100%;
+  background-color: var(--secondary-color);
+  border-radius: var(--unit-size-m);
+}
+
+.profile-photo {
+  height: 100%;
+  border-radius: var(--unit-size-m);
+}
+
+.content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.header {
+  margin-bottom: 40px;
+}
