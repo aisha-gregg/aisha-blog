@@ -1,9 +1,3 @@
-.travelphoto {
-  height: 350px;
-  border-radius: 50%;
-  max-width: 80%;
-}
-
 .blog-title {
   overflow: visible;
   font-size: 30px;
@@ -14,27 +8,38 @@
   color: white;
   transition: 0.5s ease opacity;
 }
-.menu1 {
-  display: flex;
-  text-align: top;
-  z-index: 1;
-}
 
 .blog-title p:hover {
   opacity: 1;
 }
 
 .container {
+  --content-width: 60vw;
+  --gutter: 30px;
+  --columns: 3;
+  --row-size: calc(
+    (var(--content-width) - (var(--gutter) * (var(--columns) - 1))) /
+      var(--columns)
+  );
+
   display: grid;
-  grid-gap: 30px;
-  grid-template-columns: repeat(3, 1fr);
+  margin: 0 auto;
+
+  width: 100%;
+  max-width: var(--content-width);
+
+  grid-template-columns: repeat(var(--columns), 1fr);
+  grid-auto-rows: var(--row-size);
+
+  grid-gap: var(--gutter);
 }
 
-.p {
-  background-color: rgb(121, 211, 238);
+.container > a {
+  width: 100%;
 }
-.morocco-blog {
-  margin: auto 30;
-  padding: 200px;
-  padding-top: 10px;
+
+.container img {
+  object-fit: cover;
+  height: 100%;
+  border-radius: 100%;
 }

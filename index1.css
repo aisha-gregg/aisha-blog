@@ -5,11 +5,11 @@
 
 .main-links a:link {
   color: black;
-  padding: 10px;
 }
 
 .main-links h2 {
   display: inline-block;
+  padding: 5px;
 }
 
 .main-links a:visited {
@@ -18,7 +18,8 @@
 
 .main-links a:hover {
   background-color: var(--secondary-color);
-  border-radius: 15px;
+  border-radius: 30px;
+  display: initial;
 }
 
 .photo-logo {
@@ -61,4 +62,14 @@ div.photo-menu {
 
 .header {
   margin-bottom: 40px;
+}
+
+.contact-box {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+img {
+  width: 100%;
+  height: auto;
 }
