@@ -3,12 +3,8 @@
   justify-content: center;
 }
 
-.main-links a:link {
-  color: black;
-}
-
 .main-links h2 {
-  display: inline-block;
+  display: inline;
   padding: 5px;
 }
 
@@ -19,7 +15,6 @@
 .main-links a:hover {
   background-color: var(--secondary-color);
   border-radius: 30px;
-  display: initial;
 }
 
 .photo-logo {
@@ -32,6 +27,8 @@
 
 .contact img {
   max-width: 30px;
+  overflow: hidden;
+  transition-duration: 0.5s;
 }
 
 .contact {
@@ -43,6 +40,9 @@
   padding: 0px 5px;
 }
 
+.contact a:hover {
+  transform: scale(2, 2);
+}
 div.photo-menu {
   height: 10px;
   max-width: 100%;
@@ -51,7 +51,6 @@ div.photo-menu {
 }
 
 .profile-photo {
-  height: 100%;
   border-radius: var(--unit-size-m);
 }
 
@@ -70,6 +69,5 @@ div.photo-menu {
 }
 
 img {
-  width: 100%;
   height: auto;
 }
