@@ -1,13 +1,14 @@
 import React from "react";
+import styles from "./header.module.css";
 
 export function Header() {
   return (
-    <header class="content header">
-      <div class="main-links">
-        <a href="index.html" class="main-links">
+    <header className={styles["content-header"]}>
+      <div className={styles.mainlinks}>
+        <a href="index.html" className={styles.mainlinks}>
           <h1>The adventures of A.K</h1>
         </a>
-        <div class="wrapper">
+        <div className={styles.wrapper}>
           <a href="travel.html">
             <h2>--Travel</h2>
           </a>
@@ -23,11 +24,15 @@ export function Header() {
         </div>
 
         <div>
-          <img src="./img/paper-plane.png" alt="" class="photo-logo" />
+          <img
+            src="./img/paper-plane.png"
+            alt=""
+            className={styles.photologo}
+          />
         </div>
       </div>
-      <div class="contact-box">
-        <div class="contact">
+      <div className={styles.contactbox}>
+        <div className={styles.contact}>
           <a href="https://www.facebook.com/ak.gregg.3" target="_blank">
             <img src="./img/fb-logo.png" alt="picture of fb logo" />
           </a>
@@ -42,7 +47,7 @@ export function Header() {
         </div>
       </div>
 
-      <div class="photo-menu"></div>
+      <div className={styles.photomenu}></div>
     </header>
   );
 }
