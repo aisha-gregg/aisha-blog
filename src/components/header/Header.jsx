@@ -12,18 +12,12 @@ export function Header() {
 
         <div className={styles.wrapper}>
           <Link to="/travel">
-            <h2>--Travel</h2>
+            <h2>--Travel </h2>&
           </Link>
 
-          <a href="living-abroad.html">
-            <h2>Living abroad</h2>
-          </a>
-          <a href="personal.html">
-            <h2>Personal</h2>
-          </a>
-          <a href="career.html">
-            <h2>Career--</h2>
-          </a>
+          <Link to="/living-abroad">
+            <h2>Living abroad--</h2>
+          </Link>
         </div>
 
         <div>
