@@ -1,13 +1,14 @@
 import React from "react";
 import styles from "./header.module.css";
+import { Link } from "../link/Link";
 
 export function Header() {
   return (
     <header className={styles["content-header"]}>
       <div className={styles.mainlinks}>
-        <a href="index.html" className={styles.mainlinks}>
+        <Link to="/">
           <h1>The adventures of A.K</h1>
-        </a>
+        </Link>
         <div className={styles.wrapper}>
           <a href="travel.html">
             <h2>--Travel</h2>

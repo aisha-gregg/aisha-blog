@@ -1,0 +1,10 @@
+.wrapper-content {
+  display: flex;
+  justify-content: center;
+  padding-top: var(--unit-size-xs);
+}
+
+.profile-photo {
+  width: max-content;
+  border-radius: var(--unit-size-l);
+}
