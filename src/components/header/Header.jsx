@@ -9,10 +9,12 @@ export function Header() {
         <Link to="/">
           <h1>The adventures of A.K</h1>
         </Link>
+
         <div className={styles.wrapper}>
-          <a href="travel.html">
+          <Link to="/travel">
             <h2>--Travel</h2>
-          </a>
+          </Link>
+
           <a href="living-abroad.html">
             <h2>Living abroad</h2>
           </a>
