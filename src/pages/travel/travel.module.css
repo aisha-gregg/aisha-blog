@@ -9,8 +9,8 @@
 }
 
 .container > a div {
-  position: relative;
   display: flex;
+  max-width: 96%;
   justify-content: center;
 }
 
@@ -19,32 +19,31 @@
 }
 
 .container a:hover img {
-  filter: brightness(50%);
+  filter: brightness(30%);
+  background-color: var(--primary-color);
 }
 
 .container > a p {
   margin: 0;
   align-self: center;
   position: absolute;
-
-  font-size: 30px;
-  font-style: oblique;
+  font-size: 15px;
+  font-style: italic;
   opacity: 0;
-
   color: rgb(242, 247, 248);
-  transition: 0.5s ease opacity;
 }
 
 .container > a::before {
   content: "";
-  display: inline-block;
+  display: inline;
   vertical-align: top;
   padding-bottom: 100%;
 }
 
 .container img {
-  max-width: 80%;
+  max-width: 100%;
   filter: brightness(1);
+  border: 1px solid black;
   border-radius: 100%;
   object-fit: cover;
   transition: 5 ease all;

@@ -12,7 +12,7 @@ export function Header() {
 
         <div className={styles.wrapper}>
           <Link to="/travel">
-            <h2>--Travel </h2>&
+            <h2>--Travel &</h2>
           </Link>
 
           <Link to="/living-abroad">
@@ -31,15 +31,15 @@ export function Header() {
       <div className={styles.contactbox}>
         <div className={styles.contact}>
           <a href="https://www.facebook.com/ak.gregg.3" target="_blank">
-            <img src="./img/fb-logo.png" alt="picture of fb logo" />
+            <img src="/img/fb-logo.png" alt="picture of fb logo" />
           </a>
 
           <a href="https://www.instagram.com/kamii_90/" target="_blank">
-            <img src="./img/insta-logo.png" alt="picture of instagram logo" />
+            <img src="/img/insta-logo.png" alt="picture of instagram logo" />
           </a>
 
           <a href="https://twitter.com/gregg_aisha " target="_blank">
-            <img src="./img/twitter-logo.png" alt="picture of twitter logo" />
+            <img src="/img/twitter-logo.png" alt="picture of twitter logo" />
           </a>
         </div>
       </div>
