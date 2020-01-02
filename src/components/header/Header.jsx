@@ -1,6 +1,7 @@
 import React from "react";
 import styles from "./header.module.css";
 import { Link } from "../link/Link";
+import { SocialMediaLinks } from "../social-media-links/SocialMediaLinks";
 
 export function Header() {
   return (
@@ -11,39 +12,23 @@ export function Header() {
         </Link>
 
         <div className={styles.wrapper}>
+          <Link to="/about">
+            <h2>--About</h2>
+          </Link>
           <Link to="/travel">
-            <h2>--Travel &</h2>
+            <h2> -Travel- </h2>
           </Link>
 
-          <Link to="/living-abroad">
-            <h2>Living abroad--</h2>
+          <Link to="/life-abroad">
+            <h2>Life abroad--</h2>
           </Link>
         </div>
 
         <div>
-          <img
-            src="./img/paper-plane.png"
-            alt=""
-            className={styles.photologo}
-          />
+          <img src="/img/paper-plane.png" alt="" className={styles.photologo} />
         </div>
       </div>
-      <div className={styles.contactbox}>
-        <div className={styles.contact}>
-          <a href="https://www.facebook.com/ak.gregg.3" target="_blank">
-            <img src="/img/fb-logo.png" alt="picture of fb logo" />
-          </a>
-
-          <a href="https://www.instagram.com/kamii_90/" target="_blank">
-            <img src="/img/insta-logo.png" alt="picture of instagram logo" />
-          </a>
-
-          <a href="https://twitter.com/gregg_aisha " target="_blank">
-            <img src="/img/twitter-logo.png" alt="picture of twitter logo" />
-          </a>
-        </div>
-      </div>
-
+      <SocialMediaLinks className={styles["social-links"]}></SocialMediaLinks>
       <div className={styles.photomenu}></div>
     </header>
   );

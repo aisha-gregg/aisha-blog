@@ -1,0 +1,5 @@
+.wrapper-content {
+  display: flex;
+  justify-content: center;
+  padding-top: var(--unit-size-xs);
+}

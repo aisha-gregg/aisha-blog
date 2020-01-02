@@ -1,0 +1,13 @@
+.footer {
+  width: 100%;
+  padding: var(--unit-size-m);
+  margin-top: var(--unit-size-xs);
+  background-color: var(--footer-color);
+  color: var(--primary-color);
+  display: flex;
+  align-items: center;
+}
+
+.footer small {
+  padding: var(--unit-size-s);
+}

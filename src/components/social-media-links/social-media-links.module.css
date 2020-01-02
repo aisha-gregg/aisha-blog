@@ -1,0 +1,23 @@
+.contact img {
+  max-width: 30px;
+  overflow: hidden;
+  transition-duration: 0.5s;
+}
+
+.contact {
+  display: flex;
+  justify-content: center;
+}
+
+.contact a {
+  padding: 0px 5px;
+  transition: 0.25s ease-in-out transform;
+}
+.contact a:hover {
+  transform: scale(1.4);
+}
+
+.contactbox {
+  display: inline-flex;
+  flex-direction: column-reverse;
+}

@@ -1,4 +1,5 @@
 .wrapper {
+  padding-bottom: var(--unit-size-s);
   display: flex;
   justify-content: center;
 }
@@ -8,7 +9,7 @@
   padding: 5px;
 }
 
-.mainlinks a:visited {
+.mainlinks a {
   color: black;
 }
 
@@ -25,24 +26,6 @@
   z-index: -1;
 }
 
-.contact img {
-  max-width: 30px;
-  overflow: hidden;
-  transition-duration: 0.5s;
-}
-
-.contact {
-  display: flex;
-  justify-content: flex-end;
-}
-
-.contact a {
-  padding: 0px 5px;
-}
-
-.contact a:hover {
-  transform: scale(2, 2);
-}
 div.photomenu {
   height: 10px;
   max-width: 100%;
@@ -63,11 +46,11 @@ div.photomenu {
   margin-bottom: 40px;
 }
 
-.contactbox {
-  display: flex;
-  flex-direction: column-reverse;
-}
-
 img {
   height: auto;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
 }
