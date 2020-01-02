@@ -15,6 +15,7 @@ html {
   --text-color: hsl(0, 0%, 13%);
   --link-color: hsl(0, 0%, 13%);
   --heading-font-size: 60px;
+  --secondary-font-size: 40px;
   --body-font-size: 20px;
   --primary-color: white;
   --secondary-color: rgb(122, 216, 241);
@@ -40,6 +41,12 @@ h1 {
 h2 {
   font-family: "Courier New", Courier, monospace, Helvetica, sans-serif;
   font-size: var(--body-font-size);
+  text-align: center;
+}
+
+h3 {
+  font-family: "Calligraffitti", cursive;
+  font-size: var(--secondary-font-size);
   text-align: center;
 }
 

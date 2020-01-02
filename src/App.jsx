@@ -1,6 +1,7 @@
 import React from "react";
 import { Home } from "./pages/home/Home";
 import { About } from "./pages/about/About";
+
 import { LifeAbroad } from "./pages/life-abroad/LifeAbroad";
 import { Travel } from "./pages/travel/Travel";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";

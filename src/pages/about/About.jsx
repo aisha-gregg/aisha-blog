@@ -1,5 +1,5 @@
 import React from "react";
 
 export function About() {
-  return <main></main>;
+  return <div> </div>;
 }

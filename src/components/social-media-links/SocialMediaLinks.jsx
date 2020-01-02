@@ -10,11 +10,11 @@ export function SocialMediaLinks({ className }) {
         </a>
 
         <a href="https://www.instagram.com/kamii_90/" target="_blank">
-          <img src="/img/insta-logo.png" alt="picture of instagram logo" />
+          <img src="/img/insta-logo.jpg" alt="picture of instagram logo" />
         </a>
 
         <a href="https://twitter.com/gregg_aisha " target="_blank">
-          <img src="/img/twitter-logo.png" alt="picture of twitter logo" />
+          <img src="/img/twitter-logo.jpg" alt="picture of twitter logo" />
         </a>
       </div>
     </div>

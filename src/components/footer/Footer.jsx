@@ -8,13 +8,13 @@ export function Footer() {
     <footer className={styles.footer}>
       <small>Last Updated: December 2019</small>
 
-      <Link>
+      <Link to="/about">
         <small>About</small>
       </Link>
-      <Link>
+      <Link to="/travel">
         <small>Travel</small>
       </Link>
-      <Link>
+      <Link to="/life-abroad">
         <small>Life abroad</small>
       </Link>
       <Link>
