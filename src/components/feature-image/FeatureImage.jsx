@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./FeatureImage/feature-image.module.css";
+import styles from "./feature-image.module.css";
 
 export function FeatureImage({ text, image, onClick }) {
   return (

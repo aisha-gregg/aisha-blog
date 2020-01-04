@@ -1,19 +1,14 @@
 .container {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(100px, 1fr));
-  grid-gap: 30px;
+ display:flex;
+ justify-content: center;
+ align-items: center;
+ position: relative;
+
 }
 
-.container > a {
-  display: flex;
-}
-
-.container > a div {
-  display: flex;
-  max-width: 96%;
-  justify-content: center;
-}
-
-.container a:hover p {
-  opacity: 1;
+.container p{
+    padding: 0;
+    margin: 0;
+    
+    position: absolute;
 }

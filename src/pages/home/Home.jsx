@@ -2,6 +2,7 @@ import React from "react";
 import styles from "./home.module.css";
 
 import { Link } from "../../components/link/Link";
+import { FeatureImage } from "../../components/feature-image/FeatureImage";
 
 export function Home() {
   return (
@@ -25,27 +26,18 @@ export function Home() {
           I am also a software developer. You can visit my programming blog
           here.
         </p>
+        
         <div>
           <h1>Recent Posts</h1>
           <menu className={styles.container}>
-            <Link to="/travel/morocco">
-              <div>
-                <img src="./img/morocco-main.jpg" alt="picture of madrid" />
-                <p>Hello Morocco!</p>
-              </div>
-            </Link>
-            <Link>
-              <div>
-                <img src="./img/cathedral.png" alt="picture of madrid" />
-                <p>Bonjour Cote d´Azur </p>
-              </div>
-            </Link>
-            <Link>
-              <div>
-                <img src="./img/italy.png" alt="picture of madrid" />
-                <p>Buongiorno Italy</p>
-              </div>
-            </Link>
+            <FeatureImage text ="hello morocco"  image="./img/morocco-main.jpg" onClick={} ></FeatureImage>
+            
+              
+             
+      <FeatureImage text="bonjour"  image="./img/cathedral.png" ></FeatureImage>
+            
+            <FeatureImage text="buongiorno Italy"  image="./img/italy.png" ></FeatureImage>
+            
           </menu>
         </div>
       </div>

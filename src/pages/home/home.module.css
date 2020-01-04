@@ -13,12 +13,15 @@
 
 p {
   text-align: start;
-  padding-left: var(--unit-size-xs);
+  padding-left: var(--unit-size-l);
 }
-h1 {
+.wrapper-content h1 {
+  display:flex;
   justify-content: center;
 }
-
+ .wrapper-content h3{
+   padding-top: var(--unit-size-s);
+ }
 .container img {
   width: 50%;
 }
