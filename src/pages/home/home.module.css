@@ -1,7 +1,4 @@
 .wrapper-content {
-  display: grid;
-  grid-template-columns: 400px 1fr;
-
   padding-top: var(--unit-size-xs);
 }
 
@@ -15,10 +12,18 @@ p {
   text-align: start;
   padding-left: var(--unit-size-xs);
 }
-h1 {
-  justify-content: center;
+
+.posts {
+  display: flex;
+  flex-direction: row;
 }
 
-.container img {
-  width: 50%;
+.posts > *:not(:last-child) {
+  margin-right: 20px;
+}
+
+.introduction {
+  display: grid;
+  grid-template-columns: minmax(400px, 400px) 1fr;
+  grid-gap: var(--unit-size-s);
 }
