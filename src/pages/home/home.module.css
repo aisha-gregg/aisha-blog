@@ -10,7 +10,7 @@
 
 p {
   text-align: start;
-  padding-left: var(--unit-size-xs);
+  padding-left: var(--unit-size-l);
 }
 
 .posts {
