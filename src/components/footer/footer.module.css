@@ -6,8 +6,11 @@
   color: var(--primary-color);
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 .footer small {
   padding: var(--unit-size-s);
+  align-items: center;
+  font-family: var(--secondary-header-font);
 }

@@ -18,8 +18,8 @@ export function LifeAbroad() {
       <ul>
         <strong> 1.Food</strong>
         <p>
-          One strongig difference is the local food here. It is fine but coming
-          from a pallete that is used to alot of flavour and spice it can be
+          One big difference is the local food here. It is fine but coming from
+          a pallete that is used to alot of flavour and spice it can be
           underwhelming at times.The dishes of my country usually have some
           indian influence and I found that the local plates like paella, fries
           and egg and croquetas were not as amazing as many tourists
@@ -43,11 +43,18 @@ export function LifeAbroad() {
           here are hot and sticky.But I still prefer it over winter.I can wear
           almost anything I want.Dont really need to depend on the weather app
           too much and I am apparently so much lighter.But yes suncreen,
-          suncreen suncreen.Very important! 3.Culture Everyone is always out
-          even on weekdays. 4.Racism and feeling outsider syndrome 5.Language
-          Barriers Some say curisosity kills the cat but what if curiosity makes
-          you alive once again?
+          suncreen suncreen.Very important!
         </p>
+        <strong>3.Culture</strong>{" "}
+        <p>
+          Everyone is always out even on weekdays.It is always a social scene, I
+          would have to say even more than my own country and we do love a party
+        </p>
+        <strong>4.Racism</strong> <p></p>
+        <strong>5.Language Barriers </strong>
+        <p></p>
+        Some say curisosity kills the cat but what if curiosity makes you alive
+        once again?
       </ul>
     </main>
   );

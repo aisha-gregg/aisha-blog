@@ -13,15 +13,6 @@ p {
   padding-left: var(--unit-size-l);
 }
 
-.posts {
-  display: flex;
-  flex-direction: row;
-}
-
-.posts > *:not(:last-child) {
-  margin-right: 20px;
-}
-
 .introduction {
   display: grid;
   grid-template-columns: minmax(400px, 400px) 1fr;

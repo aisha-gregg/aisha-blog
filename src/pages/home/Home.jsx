@@ -15,7 +15,7 @@ export function Home() {
           className={styles["profile-photo"]}
         />
         <div>
-          <h3>About me</h3>
+          <h2>About me</h2>
           <p>
             Hi. I am Aisha Kamilah; travel enthusiast and blogger. I am from the
             beautiful twin isles of Trinidad and Tobago. Now I live in Spain and
@@ -31,21 +31,23 @@ export function Home() {
         </div>
       </section>
       <section>
-        <h1 className={styles.recentposts}>Recent Posts</h1>
+        <h2 className={styles.recentposts}>Recent Posts</h2>
         <div className={styles.posts}>
           <FeatureImage
-            text="hello morocco"
+            text="Hello Morocco"
             image="./img/morocco-main.jpg"
             onClick={() => history.push("/travel/morocco")}
           ></FeatureImage>
 
           <FeatureImage
-            text="Bonjour Cote d´Azur"
+            text="Summer in Cote d´Azur"
             image="./img/cathedral.png"
+            onClick={() => history.push("/travel/morocco")}
           ></FeatureImage>
           <FeatureImage
             text="Buongiorno Italy"
             image="./img/italy.png"
+            onClick={() => history.push("/travel/morocco")}
           ></FeatureImage>
         </div>
       </section>

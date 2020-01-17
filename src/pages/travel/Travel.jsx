@@ -14,7 +14,7 @@ export function Travel() {
       <Link>
         <div>
           <img src="./img/cathedral.png" alt="picture of madrid" />
-          <p>Bonjour Cote d´Azur </p>
+          <p>Summer in Cote d´Azur </p>
         </div>
       </Link>
       <Link>
@@ -32,7 +32,7 @@ export function Travel() {
       <Link>
         <div>
           <img src="./img/prague.jpg" alt="picture of madrid" />
-          <p>Lover Paradise 😘</p>
+          <p>Lovers Paradise 😘</p>
         </div>
       </Link>
       <Link>
@@ -49,8 +49,8 @@ export function Travel() {
       </Link>
       <Link>
         <div>
-          <img src="./img/vienna.jpg" alt="picture of madrid" />
-          <p>Vienna waits for you</p>
+          <img src="./img/frankfurt.jpg" alt="picture of madrid" />
+          <p>Frankfurt in a day 🙈</p>
         </div>
       </Link>
     </menu>

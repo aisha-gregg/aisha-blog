@@ -15,7 +15,7 @@ html {
   --text-color: hsl(0, 0%, 13%);
   --link-color: hsl(0, 0%, 13%);
   --heading-font-size: 60px;
-  --secondary-font-size: 40px;
+  --secondary-font-size: 28px;
   --body-font-size: 20px;
   --primary-color: white;
   --secondary-color: rgb(122, 216, 241);
@@ -26,6 +26,10 @@ html {
   --unit-size-s: 24px;
   --unit-size-m: 32px;
   --unit-size-l: 64px;
+  --primary-header-font: Impact, Haettenschweiler, "Arial Narrow Bold",
+    sans-serif;
+  --secondary-header-font: "Courier New", Courier, monospace, Helvetica,
+    sans-serif;
 }
 
 * {
@@ -33,19 +37,13 @@ html {
 }
 
 h1 {
-  font-family: "Calligraffitti", cursive;
+  font-family: var(--primary-header-font);
   font-size: var(--heading-font-size);
   text-align: center;
 }
 
 h2 {
-  font-family: "Courier New", Courier, monospace, Helvetica, sans-serif;
-  font-size: var(--body-font-size);
-  text-align: center;
-}
-
-h3 {
-  font-family: "Calligraffitti", cursive;
+  font-family: var(--secondary-header-font);
   font-size: var(--secondary-font-size);
   text-align: center;
 }
