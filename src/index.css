@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Calligraffitti&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Reenie+Beanie&display=swap");
 
 @viewport {
   zoom: 1; /* same as initial-scale=1 */
@@ -14,11 +14,11 @@ html {
 :root {
   --text-color: hsl(0, 0%, 13%);
   --link-color: hsl(0, 0%, 13%);
-  --heading-font-size: 60px;
-  --secondary-font-size: 28px;
-  --body-font-size: 20px;
+  --primary-font-size: 60px;
+  --secondary-font-size: 20px;
+  --body-font-size: 16px;
   --primary-color: white;
-  --secondary-color: rgb(122, 216, 241);
+  --secondary-color: #7ad8f1;
   --footer-color: rgb(39, 36, 36);
   --unit-size: 8px;
   --unit-size-xss: 4px;
@@ -26,26 +26,13 @@ html {
   --unit-size-s: 24px;
   --unit-size-m: 32px;
   --unit-size-l: 64px;
-  --primary-header-font: Impact, Haettenschweiler, "Arial Narrow Bold",
-    sans-serif;
-  --secondary-header-font: "Courier New", Courier, monospace, Helvetica,
-    sans-serif;
+  --primary-header-font: "Reenie Beanie", cursive;
+  --secondary-header-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
 * {
   box-sizing: border-box;
-}
-
-h1 {
-  font-family: var(--primary-header-font);
-  font-size: var(--heading-font-size);
-  text-align: center;
-}
-
-h2 {
-  font-family: var(--secondary-header-font);
-  font-size: var(--secondary-font-size);
-  text-align: center;
 }
 
 body {
@@ -54,5 +41,49 @@ body {
   color: var(--text-color);
   background-color: var(--primary-color);
   font-size: var(--body-font-size);
-  line-height: 2;
+  line-height: 1.65;
+}
+p {
+  margin-bottom: 1.15rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin: 2.75rem 0 1.05rem;
+  font-family: var(--primary-header-font);
+
+  font-size: var(--primary-font-size);
+
+  font-weight: 400;
+  line-height: 1.15;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 2.488em;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 2.074em;
+}
+
+h3 {
+  font-size: 1.728em;
+}
+
+h4 {
+  font-size: 1.44em;
+}
+
+h5 {
+  font-size: 1.2em;
+}
+
+small,
+.text_small {
+  font-size: 0.833em;
 }

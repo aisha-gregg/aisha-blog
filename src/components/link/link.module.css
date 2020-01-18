@@ -1,3 +1,9 @@
 .link {
-  color: var(--primary-color);
+  text-decoration: none;
+  display: inline-block;
+  color: var(--secondary-color);
+}
+.link:hover {
+  border-radius: 30px;
+  filter: brightness(110%);
 }
