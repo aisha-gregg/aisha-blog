@@ -1,11 +1,12 @@
 .content {
   margin: 0 auto;
-  width: 60rem;
+  max-width: 60rem;
   flex: 1;
+  padding: var(--s);
 }
 
 .wrapper {
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  min-height: 100vh;
 }

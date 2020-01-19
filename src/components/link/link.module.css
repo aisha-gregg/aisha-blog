@@ -1,7 +1,7 @@
 .link {
   text-decoration: none;
   display: inline-block;
-  color: var(--secondary-color);
+  color: var(--primary-color);
 }
 .link:hover {
   border-radius: 30px;

@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Reenie+Beanie&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Abril+Fatface|Open+Sans|Reenie+Beanie&display=swap");
 
 @viewport {
   zoom: 1; /* same as initial-scale=1 */
@@ -12,23 +12,22 @@ html {
 }
 
 :root {
-  --text-color: hsl(0, 0%, 13%);
-  --link-color: hsl(0, 0%, 13%);
   --primary-font-size: 60px;
   --secondary-font-size: 20px;
-  --body-font-size: 16px;
-  --primary-color: white;
-  --secondary-color: #7ad8f1;
+  --body-font-size: 18px;
+  --primary-color: #7ad8f1;
+  --surface-color: white;
+  --on-surface-color: hsl(0, 0%, 13%);
   --footer-color: rgb(39, 36, 36);
   --unit-size: 8px;
-  --unit-size-xss: 4px;
-  --unit-size-xs: 16px;
-  --unit-size-s: 24px;
-  --unit-size-m: 32px;
-  --unit-size-l: 64px;
-  --primary-header-font: "Reenie Beanie", cursive;
-  --secondary-header-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  --xxs: 4px;
+  --xs: 16px;
+  --s: 24px;
+  --m: 32px;
+  --l: 64px;
+  --primary-header-font: "Abril Fatface", cursive;
+  --secondary-header-font: "Reenie Beanie", cursive;
+  --body-font: "Open Sans", sans-serif;
 }
 
 * {
@@ -36,13 +35,13 @@ html {
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-  color: var(--text-color);
-  background-color: var(--primary-color);
+  font-family: var(--body-font);
+  color: var(--on-surface-color);
+  background-color: var(--surface-color);
   font-size: var(--body-font-size);
   line-height: 1.65;
 }
+
 p {
   margin-bottom: 1.15rem;
 }
@@ -54,8 +53,6 @@ h4,
 h5 {
   margin: 2.75rem 0 1.05rem;
   font-family: var(--primary-header-font);
-
-  font-size: var(--primary-font-size);
 
   font-weight: 400;
   line-height: 1.15;
@@ -83,7 +80,11 @@ h5 {
   font-size: 1.2em;
 }
 
-small,
-.text_small {
-  font-size: 0.833em;
+small {
+  font-size: 0.999em;
+}
+
+.alternate-title {
+  font-family: var(--secondary-header-font);
+  font-weight: bold;
 }

@@ -9,31 +9,54 @@ export function Home() {
   return (
     <main className={styles["wrapper-content"]}>
       <section className={styles.introduction}>
-        <img
-          src="./img/index-photo.jpg"
-          alt="profilepic"
-          className={styles["profile-photo"]}
-        />
-        <div></div>
+        <div>
+          <img
+            src="./img/marilynbk.png"
+            alt="profilepic"
+            className={styles["profile-photo"]}
+          />
+          <p className={styles.description}>
+            "We travel not to escape life but for life to not escape us"-Robyn
+            Young. Travel is truly something that everyone should consider. Why?
+            Well my friends. . . at the end of the day , what is more valuable
+            to us? The material items that fill our home..or the memories that
+            fill our heart? Join my journey of growth in travel to discover
+            more!
+          </p>
+        </div>
       </section>
-      <section>
-        <h2 className={styles.recentposts}>Recent Posts</h2>
-        <div className={styles.posts}>
+      <section className={styles.section}>
+        <h2 className="alternate-title">Favourite Cities to date</h2>
+        <div className={styles.favouritecities + " " + styles.city}>
+          <FeatureImage text="Rome" image="./img/rome.jpg"></FeatureImage>
+          <FeatureImage text="Prague" image="./img/prague.jpg"></FeatureImage>
+
+          <FeatureImage text="Lisbon" image="./img/lisbon.jpg"></FeatureImage>
+        </div>
+      </section>
+
+      <section className={styles.newposts}>
+        <h2 className={styles.newposts + " " + "alternate-title"}>New Posts</h2>
+
+        <div className={styles.city}>
           <FeatureImage
             text="Hello Morocco Part 1"
             image="./img/morocco-main.jpg"
             onClick={() => history.push("/travel/morocco")}
           ></FeatureImage>
+        </div>
+      </section>
 
+      <section className={styles.upcomingposts}>
+        <h2 className="alternate-title">Upcoming Posts</h2>
+        <div className={styles.city}>
           <FeatureImage
             text="Summer in Cote d´Azur"
             image="./img/cathedral.png"
-            onClick={() => history.push("/travel/morocco")}
           ></FeatureImage>
           <FeatureImage
             text="Buongiorno Italy"
             image="./img/italy.png"
-            onClick={() => history.push("/travel/morocco")}
           ></FeatureImage>
         </div>
       </section>

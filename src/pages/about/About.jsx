@@ -11,7 +11,7 @@ export function About() {
         />
         <div>
           <h2>About me</h2>
-          <p>
+          <p className={styles.text}>
             Hi. I am Aisha Kamilah; travel enthusiast and blogger. I am from the
             beautiful twin isles of Trinidad and Tobago. Now I live in Spain and
             travel frequently across Europe. For the past couple years and after
@@ -19,7 +19,7 @@ export function About() {
             have known continues to be challenged. I want to somehow share my
             stories with the world.
           </p>
-          <p>
+          <p className={styles.text}>
             I am also a software developer. You can visit my programming blog
             here.
           </p>

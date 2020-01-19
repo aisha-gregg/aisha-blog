@@ -1,16 +1,59 @@
 .wrapper-content {
-  padding-top: var(--unit-size-xs);
+  padding-top: var(--xs);
+}
+
+.introduction {
+  display: flex;
+  padding-bottom: 0;
 }
 
 .profile-photo {
-  width: 100%;
-  border-radius: 10%;
-  padding-top: 30px;
+  border-radius: 10px;
+  float: right;
+  shape-outside: polygon(
+    141px 191px,
+    84px 104px,
+    120px 41px,
+    153px 27px,
+    190px -2px,
+    343px 2px,
+    343px 407px,
+    6px 407px
+  );
 }
 
-p {
-  text-align: start;
-  padding-left: var(--unit-size-l);
+.description {
+  margin: 0;
+  padding: 0;
+  /* TODO: Find a way to replace this magic number */
+  padding-top: 10%;
+}
+
+.favouritecities {
+  animation: slide 1.2s forwards;
+
+  transform: scale(2);
+  filter: blur(2px);
+
+  animation: slide 0.5s forwards;
+  animation-delay: 0.5s;
+}
+
+@keyframes slide {
+  100% {
+    left: 0;
+  }
+}
+@keyframes slide {
+  to {
+    filter: blur(0);
+    transform: scale(1);
+  }
+}
+.city {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: var(--xs);
 }
 
 .posts {
@@ -20,10 +63,4 @@ p {
 
 .posts > *:not(:last-child) {
   margin-right: 20px;
-}
-
-.introduction {
-  display: grid;
-  grid-template-columns: minmax(400px, 400px) 1fr;
-  grid-gap: var(--unit-size-s);
 }

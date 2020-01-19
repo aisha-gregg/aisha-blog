@@ -1,7 +1,7 @@
 .footer {
   width: 100%;
-  padding: var(--unit-size-m);
-  margin-top: var(--unit-size-xs);
+  padding: var(--m);
+  margin-top: var(--xs);
   background-color: var(--footer-color);
   color: var(--primary-color);
   display: flex;
@@ -9,8 +9,13 @@
   justify-content: center;
 }
 
-.footer small {
-  padding: var(--unit-size-s);
-  align-items: center;
-  font-family: var(--secondary-header-font);
+.links > * {
+  padding: var(--s);
+}
+
+.title {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  color: white;
 }

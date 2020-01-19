@@ -18,14 +18,14 @@ export function Header() {
       </div>
       <div className={styles.links}>
         <Link to="/about">
-          <h2>--About</h2>
+          <h2 className="alternate-title">--About</h2>
         </Link>
         <Link to="/travel">
-          <h2> -Travel- </h2>
+          <h2 className="alternate-title"> -Travel- </h2>
         </Link>
 
         <Link to="/life-abroad">
-          <h2>Life abroad--</h2>
+          <h2 className="alternate-title">Life abroad--</h2>
         </Link>
       </div>
       <SocialMediaLinks className={styles["social-links"]}></SocialMediaLinks>

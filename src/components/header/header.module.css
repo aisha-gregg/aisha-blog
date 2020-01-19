@@ -5,12 +5,12 @@
 
   border-bottom-style: inset;
 
-  padding-top: var(--unit-size-s);
+  padding-top: var(--s);
 }
 
 .title {
   margin: 0;
-  text-align: center;
+  text-align: right;
   color: rgb(80, 80, 80);
 }
 
@@ -23,6 +23,7 @@
 .photologo {
   width: 500px;
   position: absolute;
+
   z-index: -1;
   filter: sepia(31%) saturate(1417%) hue-rotate(156deg) brightness(114%)
     contrast(93%);
@@ -33,7 +34,7 @@
 }
 
 .links h2 {
-  margin: var(--unit-size-xs) var(--unit-size-xss);
+  margin: var(--xs) var(--xxs);
   margin-bottom: 0;
   font-weight: 600;
 }

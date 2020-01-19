@@ -6,23 +6,14 @@ import { SocialMediaLinks } from "../social-media-links/SocialMediaLinks";
 export function Footer() {
   return (
     <footer className={styles.footer}>
-      <div>
-        <small>Last Updated: January 2020</small>
-        <Link to="/">
-          <small>Home</small>
-        </Link>
-        <Link to="/about">
-          <small>About</small>
-        </Link>
-        <Link to="/travel">
-          <small>Travel</small>
-        </Link>
-        <Link to="/life-abroad">
-          <small>Life abroad</small>
-        </Link>
-        <Link>
-          <small>Programming blog</small>
-        </Link>
+      <div className={styles.links}>
+        <h5 className={"alternate-title" + " " + styles.title}>
+          Last Updated: January 2020
+        </h5>
+        <Link to="/">Home</Link>
+        <Link to="/about">About</Link>
+        <Link to="/travel">Travel</Link>
+        <Link to="/life-abroad">Life abroad</Link>
       </div>
       <SocialMediaLinks></SocialMediaLinks>
     </footer>

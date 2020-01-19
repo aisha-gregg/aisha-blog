@@ -5,10 +5,23 @@
 
 .post img {
   width: 300px;
-
+  float: left;
+  padding: var(--m);
+  padding-left: 0;
   border-radius: 20px;
-  display: flex;
 }
 
-.post p {
+.post h1,
+.post h2,
+.post h3 {
+  text-align: center;
+}
+
+.post blockquote {
+  border-left: 3px solid var(--primary-color);
+  font-style: italic;
+}
+
+.post blockquote > p {
+  padding-left: var(--s);
 }
