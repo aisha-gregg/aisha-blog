@@ -14,22 +14,27 @@ export function Travel() {
       <Link>
         <div>
           <img src="./img/cathedral.png" alt="picture of madrid" />
-          <p>Summer in Cote d´Azur </p>
+          <p>
+            Cote d´Azur Holiday
+            <br />
+            (coming soon)
+          </p>
         </div>
       </Link>
       <Link>
         <div>
           <img src="./img/italy.png" alt="picture of madrid" />
-          <p>Buongiorno Italy</p>
+          <p>Buongiorno Italy(coming soon)</p>
         </div>
       </Link>
       <Link>
         <div>
           <img src="./img/london.jpg" alt="picture of madrid" />
-          <p>London adventures</p>
+          <p>London adventures(coming soon)</p>
         </div>
       </Link>
-      <Link>
+    </menu>
+    /*<Link>
         <div>
           <img src="./img/prague.jpg" alt="picture of madrid" />
           <p>Lovers Paradise 😘</p>
@@ -53,6 +58,6 @@ export function Travel() {
           <p>Frankfurt in a day 🙈</p>
         </div>
       </Link>
-    </menu>
+       */
   );
 }

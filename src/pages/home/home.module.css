@@ -7,6 +7,13 @@
   padding-bottom: 0;
 }
 
+.first-letter {
+  font-size: 100px;
+  line-height: 70px;
+  font-family: var(--secondary-header-font);
+  color: var(--primary-color);
+}
+
 .profile-photo {
   border-radius: 10px;
   float: right;
@@ -27,6 +34,7 @@
   padding: 0;
   /* TODO: Find a way to replace this magic number */
   padding-top: 10%;
+  font-style: italic;
 }
 
 .favouritecities {

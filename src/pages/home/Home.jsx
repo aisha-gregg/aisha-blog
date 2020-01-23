@@ -16,12 +16,12 @@ export function Home() {
             className={styles["profile-photo"]}
           />
           <p className={styles.description}>
-            "We travel not to escape life but for life to not escape us"-Robyn
-            Young. Travel is truly something that everyone should consider. Why?
-            Well my friends. . . at the end of the day , what is more valuable
-            to us? The material items that fill our home..or the memories that
-            fill our heart? Join my journey of growth in travel to discover
-            more!
+            <span className={styles["first-letter"]}>"W</span>e travel not to
+            escape life but for life to not escape us" -Robyn Young. Travel is
+            truly something that everyone should consider. Why? Well let`s just
+            say that. . . at the end of the day , what is more valuable to us?
+            The material items that fill our home..or the memories that fill our
+            heart? Join my journey of growth in travel to discover more!
           </p>
         </div>
       </section>
@@ -51,12 +51,16 @@ export function Home() {
         <h2 className="alternate-title">Upcoming Posts</h2>
         <div className={styles.city}>
           <FeatureImage
-            text="Summer in Cote d´Azur"
+            text="Cote d´Azur Holiday"
             image="./img/cathedral.png"
           ></FeatureImage>
           <FeatureImage
             text="Buongiorno Italy"
             image="./img/italy.png"
+          ></FeatureImage>
+          <FeatureImage
+            text="London Adventures"
+            image="./img/london.jpg"
           ></FeatureImage>
         </div>
       </section>

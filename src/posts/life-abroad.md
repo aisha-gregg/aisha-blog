@@ -1,4 +1,4 @@
-# Life Abroad
+## Life Abroad
 
 Sometimes it is so interesting the differences you see from country to country, especially when you have to live it daily.
 The day I left the caribbean sometimes repeats in my mind and I remember the anxiety and fear I faced.I wondered if I was making the right

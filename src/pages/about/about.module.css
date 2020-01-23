@@ -8,6 +8,10 @@
   padding-top: 30px;
 }
 
+.about {
+  text-align: center;
+}
+
 .text {
   text-align: start;
   padding-left: var(--l);
