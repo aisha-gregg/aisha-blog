@@ -21,7 +21,7 @@ export function Home() {
             truly something that everyone should consider. Why? Well let`s just
             say that. . . at the end of the day , what is more valuable to us?
             The material items that fill our home..or the memories that fill our
-            heart? Join my journey of growth in travel to discover more!
+            heart? Join my journey of growth while travelling to discover more!
           </p>
         </div>
       </section>
