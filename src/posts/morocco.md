@@ -15,7 +15,7 @@ The next day we visited the medina of Fez which I must say is the least stressfu
 It was adorned with chaotic scenery; people selling items in the streets, those narrow claustrophobic streets which made it impossible for four persons to pass at a time... There were stalls with vendors selling jewelry, cloth and souvenirs.
 
 We stopped to enjoy the sweet desserts they make there which are called Chebakia. They are sesame like cookies fried and dipped in honey. You will love it if you have quite a generous sweet tooth!
-![The sweet Chebakia](/img/chebakia.jpg)
+![The sweet Chebakia](./img/chebakia.jpg)
 
 Fez with its warm climate and relatively open streets, I liked. Some great attractions which I 100% recommend are:
 
@@ -33,7 +33,7 @@ The most rewarding experience was coming the next day as we were going on a trip
 
 **THE** sahara desert.
 
-![Car trip](/img/car-trip.jpg)
+![Car trip](./img/car-trip.jpg)
 
 It would take about a day to arrive so we prepared ourselves mentally for the long journey ahead. We would be driven along with two friendly guys, one from Spain and the other from Greece. Our driver Hassan took the four of us through the Swiss city of Morocco called Ifrane Province and then through the largest Oasis in Morocco before we arrived in Merzouga.
 
@@ -41,13 +41,13 @@ Merzouga was pretty interesting. It is basically a city made of clay and sand th
 
 Off we go!
 
-![Camelride](/img/camel-ride.jpg)
+![Camelride](./img/camel-ride.jpg)
 
 When the Berbers came they lead us on a sunset camel ride to our overnight accomodation and full disclosure; it is ALOT more uncomfortable than you think. The camel ride is not very pleasant and can be painful for the, let's just say "derrière". The gusty winds can actually sting your face also. And while this depends on the weather conditions, just be prepared to walk with a head-scarf or what locals call "keffiyeh". I would advise for first timers to do camel rides of short distances which can be covered in a couple hours. Our camel ride was a little over an hour.
 
 The magic of the Sahara is crossing the dunes and watching the light of the day highlight the dunes; shaping them, and even being swallowed by them, creating vast shadows. It was definitely an experience that everyone should seek once in their lifetime.
 
-![Picture of saharadunes](/img/dunes.jpg)
+![Picture of saharadunes](./img/dunes.jpg)
 
 At our accomodation we were given dinner: Tanjerine of potato, carrots, chick peas and chicken. We joined along to some typical dances and also did some sand boarding, which was super fun and totally recommendable.
 
@@ -59,10 +59,10 @@ The Sahara was no longer what I knew in movies and _this_ world-wonder filled wi
 
 I must say I had a great night's sleep especially as that night it drizzled lightly in the Sahara desert for the first time all year...
 
-![Picture of saharasunrise](/img/sunrise.jpg)
+![Picture of saharasunrise](./img/sunrise.jpg)
 
 The next morning we arose at 5am to embark on our journey back to the hotel and to see the sunrise. It was a cool morning and the terrain calmer than the inital trip. Our Berber let us stop at a dune that seemed to grow towards the sky in order to take advantage of the view. We dismounted and waited for the sun.
 
 Peaceful, is what sums up that feeling. It's like seeing the beginning of something new for the very first time. The first sunset in a place you never pictured you would be and you suddenly feel at ease. I chose to collect my memories there and then before we mounted our camels back to the hotel by gathering a bit of the Sahara that I would always have with me. This for me was the greatest souvenir.
 
-![Picture of bottledsahara](/img/saharabottled.jpg)
+![Picture of bottledsahara](./img/saharabottled.jpg)
