@@ -5,12 +5,16 @@
   align-items: center;
 }
 
-.container:hover {
-  cccursor: pointer;
+.navigable:hover {
+  cursor: pointer;
 }
 
-.container p {
+.non-navigable {
+}
+.title {
   position: absolute;
+}
+.container p {
   margin: 0;
   padding: 20px;
   font-family: var(--primary-header-font);

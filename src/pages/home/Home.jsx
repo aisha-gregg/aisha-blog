@@ -1,6 +1,5 @@
 import React from "react";
 import styles from "./home.module.css";
-import { FeatureImage } from "../../components/feature-image/FeatureImage";
 import { ImageSection } from "../../components/image-section/ImageSection";
 import { useHistory } from "react-router-dom";
 
