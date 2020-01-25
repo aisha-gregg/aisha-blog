@@ -1,40 +1,36 @@
 import styles from "./travel.module.css";
 import React from "react";
-import { Link } from "../../components/link/Link";
+import { FeatureImage } from "../../components/feature-image/FeatureImage";
+import { useHistory } from "react-router-dom";
 
 export function Travel() {
+  const history = useHistory();
   return (
     <menu className={styles.container}>
-      <Link to="/travel/morocco">
-        <div>
-          <img src="./img/morocco-main.jpg" alt="picture of madrid" />
-          <p>Hello Morocco!</p>
-        </div>
-      </Link>
-      <Link>
-        <div>
-          <img src="./img/cathedral.png" alt="picture of madrid" />
-          <p>
-            Cote d´Azur Holiday
-            <br />
-            (coming soon)
-          </p>
-        </div>
-      </Link>
-      <Link>
-        <div>
-          <img src="./img/italy.png" alt="picture of madrid" />
-          <p>Buongiorno Italy(coming soon)</p>
-        </div>
-      </Link>
-      <Link>
-        <div>
-          <img src="./img/london.jpg" alt="picture of madrid" />
-          <p>London adventures(coming soon)</p>
-        </div>
-      </Link>
-    </menu>
-    /*<Link>
+      <FeatureImage
+        image="./img/morocco-main.jpg"
+        text="Hello Morocco!"
+        onClick={() => history.push("/travel/morocco")}
+      ></FeatureImage>
+
+      <FeatureImage
+        image="./img/cathedral.png"
+        isComingSoon
+        text="Cote d´Azur Holiday"
+      ></FeatureImage>
+
+      <FeatureImage
+        image="./img/italy.png"
+        isComingSoon
+        text="Buongiorno Italy"
+      ></FeatureImage>
+
+      <FeatureImage
+        image="./img/london.jpg"
+        isComingSoon
+        text="London adventures"
+      ></FeatureImage>
+      {/*<Link>
         <div>
           <img src="./img/prague.jpg" alt="picture of madrid" />
           <p>Lovers Paradise 😘</p>
@@ -57,7 +53,7 @@ export function Travel() {
           <img src="./img/frankfurt.jpg" alt="picture of madrid" />
           <p>Frankfurt in a day 🙈</p>
         </div>
-      </Link>
-       */
+      </Link>*/}
+    </menu>
   );
 }
