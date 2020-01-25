@@ -4,11 +4,11 @@
 }
 
 .post img {
-  width: 300px;
-  float: left;
+  max-width: 300px;
   padding: var(--m);
   padding-left: 0;
   border-radius: 20px;
+  float: left;
 }
 
 .post h1,
@@ -29,6 +29,11 @@
 .post blockquote {
   border-left: 3px solid var(--primary-color);
   font-style: italic;
+  float: left;
+}
+
+.post blockquote + * {
+  clear: left;
 }
 
 .post blockquote > p {

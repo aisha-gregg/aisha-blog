@@ -19,3 +19,9 @@
   grid-template-columns: repeat(3, 1fr);
   grid-gap: var(--xs);
 }
+
+@media (max-width: 720px) {
+  .images {
+    grid-template-columns: 1fr;
+  }
+}

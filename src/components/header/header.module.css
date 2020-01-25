@@ -22,8 +22,9 @@
   justify-content: center;
   align-items: center;
 }
+
 .photologo {
-  width: 500px;
+  max-width: 500px;
   position: absolute;
 
   z-index: -1;
