@@ -13,7 +13,11 @@ export function Header() {
             <br />
             of A.K
           </h1>
-          <img src="/img/paper-plane.png" alt="" className={styles.photologo} />
+          <img
+            src="./img/paper-plane.png"
+            alt=""
+            className={styles.photologo}
+          />
         </Link>
       </div>
       <div className={styles.links}>
