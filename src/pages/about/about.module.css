@@ -19,6 +19,12 @@
 
 .introduction {
   display: grid;
-  grid-template-columns: minmax(400px, 400px) 1fr;
+  grid-template-columns: 1fr;
   grid-gap: var(--s);
+}
+
+@media (min-width: 720px) {
+  .introduction {
+    grid-template-columns: minmax(400px, 400px) 1fr;
+  }
 }
