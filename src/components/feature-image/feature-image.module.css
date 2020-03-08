@@ -6,7 +6,7 @@
 }
 
 .container:hover {
-  cccursor: pointer;
+  cursor: pointer;
 }
 
 .container p {
