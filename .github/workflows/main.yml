@@ -9,6 +9,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: "12.16.1"
+      - uses: actions/cache@v1
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+      - name: install
+        run: npm ci
       - name: Build
         run: npm run build
       - name: Deploy
@@ -16,3 +27,4 @@ jobs:
         with:
           BRANCH: gh-pages
           FOLDER: build
+          CLEAN: true
