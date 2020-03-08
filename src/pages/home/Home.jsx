@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./home.module.css";
-import { FeatureImage } from "../../components/feature-image/FeatureImage";
+import { ImageSection } from "../../components/image-section/ImageSection";
 import { useHistory } from "react-router-dom";
 
 export function Home() {
@@ -25,45 +25,35 @@ export function Home() {
           </p>
         </div>
       </section>
-      <section className={styles.section}>
-        <h2 className="alternate-title">Favourite Cities to date</h2>
-        <div className={styles.favouritecities + " " + styles.city}>
-          <FeatureImage text="Rome" image="./img/rome.jpg"></FeatureImage>
-          <FeatureImage text="Prague" image="./img/prague.jpg"></FeatureImage>
 
-          <FeatureImage text="Lisbon" image="./img/lisbon.jpg"></FeatureImage>
-        </div>
-      </section>
+      <ImageSection
+        title="Favourite Cities to date"
+        images={[
+          { text: "Rome", image: "./img/rome.jpg" },
+          { text: "Prague", image: "./img/prague.jpg" },
+          { text: "Lisbon", image: "./img/lisbon.jpg" }
+        ]}
+      ></ImageSection>
 
-      <section className={styles.newposts}>
-        <h2 className={styles.newposts + " " + "alternate-title"}>New Posts</h2>
+      <ImageSection
+        title="New Posts"
+        images={[
+          {
+            text: "Morocco part 1",
+            image: "./img/morocco-main.jpg",
+            onClick: () => history.push("/travel/morocco")
+          }
+        ]}
+      ></ImageSection>
 
-        <div className={styles.city}>
-          <FeatureImage
-            text="Hello Morocco Part 1"
-            image="./img/morocco-main.jpg"
-            onClick={() => history.push("/travel/morocco")}
-          ></FeatureImage>
-        </div>
-      </section>
-
-      <section className={styles.upcomingposts}>
-        <h2 className="alternate-title">Upcoming Posts</h2>
-        <div className={styles.city}>
-          <FeatureImage
-            text="Cote d´Azur Holiday"
-            image="./img/cathedral.png"
-          ></FeatureImage>
-          <FeatureImage
-            text="Buongiorno Italy"
-            image="./img/italy.png"
-          ></FeatureImage>
-          <FeatureImage
-            text="London Adventures"
-            image="./img/london.jpg"
-          ></FeatureImage>
-        </div>
-      </section>
+      <ImageSection
+        title="Upcoming Posts"
+        images={[
+          { text: "Oh my, Marseille!", image: "./img/cathedral.png" },
+          { text: "Boungiorno Italy", image: "./img/italy.png" },
+          { text: "London Adventures", image: "./img/london.jpg" }
+        ]}
+      ></ImageSection>
     </main>
   );
 }

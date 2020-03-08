@@ -4,11 +4,11 @@
 }
 
 .post img {
-  width: 300px;
-  float: left;
+  max-width: 300px;
   padding: var(--m);
   padding-left: 0;
   border-radius: 20px;
+  float: left;
 }
 
 .post h1,
@@ -16,15 +16,24 @@
 .post h3 {
   text-align: center;
 }
-.post :first {
-  font-size: 100px;
-  line-height: 70px;
-  font-family: var(--secondary-header-font);
+
+.post > p:first-of-type:first-letter {
+  font-size: 72px;
+  line-height: 48px;
+  font-family: var(--primary-header-font);
   color: var(--primary-color);
+  float: left;
+  padding: var(--xs);
 }
+
 .post blockquote {
   border-left: 3px solid var(--primary-color);
   font-style: italic;
+  float: left;
+}
+
+.post blockquote + * {
+  clear: left;
 }
 
 .post blockquote > p {

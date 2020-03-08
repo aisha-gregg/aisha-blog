@@ -6,15 +6,15 @@ export function SocialMediaLinks({ className }) {
     <div className={className}>
       <div className={styles.contact}>
         <a href="https://www.facebook.com/ak.gregg.3" target="_blank">
-          <img src="/img/fb-logo.png" alt="picture of fb logo" />
+          <img src="./img/fb-logo.png" alt="Facebook logo" />
         </a>
 
         <a href="https://www.instagram.com/kamii_90/" target="_blank">
-          <img src="/img/insta-logo.jpg" alt="picture of instagram logo" />
+          <img src="./img/insta-logo.jpg" alt="Instagram logo" />
         </a>
 
         <a href="https://twitter.com/gregg_aisha " target="_blank">
-          <img src="/img/twitter-logo.jpg" alt="picture of twitter logo" />
+          <img src="./img/twitter-logo.jpg" alt="Twitter logo" />
         </a>
       </div>
     </div>

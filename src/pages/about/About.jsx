@@ -1,5 +1,6 @@
 import React from "react";
 import styles from "./about.module.css";
+
 export function About() {
   return (
     <main className={styles["wrapper-content"]}>

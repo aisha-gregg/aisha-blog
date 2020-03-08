@@ -13,7 +13,11 @@ export function Header() {
             <br />
             of A.K
           </h1>
-          <img src="/img/paper-plane.png" alt="" className={styles.photologo} />
+          <img
+            src="./img/paper-plane.png"
+            alt=""
+            className={styles.photologo}
+          />
         </Link>
       </div>
       <div className={styles.links}>
@@ -21,11 +25,7 @@ export function Header() {
           <h2 className="alternate-title">--About</h2>
         </Link>
         <Link to="/travel">
-          <h2 className="alternate-title"> -Travel- </h2>
-        </Link>
-
-        <Link to="/life-abroad">
-          <h2 className="alternate-title">Life abroad--</h2>
+          <h2 className="alternate-title">-Travel-</h2>
         </Link>
       </div>
       <SocialMediaLinks className={styles["social-links"]}></SocialMediaLinks>

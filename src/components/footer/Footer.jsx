@@ -13,7 +13,6 @@ export function Footer() {
         <Link to="/">Home</Link>
         <Link to="/about">About</Link>
         <Link to="/travel">Travel</Link>
-        <Link to="/life-abroad">Life abroad</Link>
       </div>
       <SocialMediaLinks></SocialMediaLinks>
     </footer>
