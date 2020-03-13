@@ -53,7 +53,7 @@ At our accomodation we were given dinner: Tanjerine of potato, carrots, chick pe
 
 > The magic of the Sahara is crossing the dunes and watching the light of the day highlight the dunes
 
-So before coming to Morocco I was under the impression that I would SURELY freeze to death if we slept there overnight. But... but... suprisingly the accomodation was so good! We were warm and comfortable and were fitted with a sturdy bed, lamps and three large blankets. Rugs were placed on the floor of all tents and there was also running water, bathroom stalls and sinks. It blew my mind.
+So before coming to Morocco I was under the impression that I would SURELY freeze to death if we slept in the Sahara overnight. But... but... suprisingly the accomodation was so good! We were warm and comfortable and were fitted with a sturdy bed, lamps and three large blankets. Rugs were placed on the floor of all tents and there was also running water, bathroom stalls and sinks. It blew my mind.
 
 The Sahara was no longer what I knew in movies and _this_ world-wonder filled with sand. It was in fact a well functioning region outfitted with electricity and water, where Berbers roamed the land and worked with tourists to earn addtional income.
 
