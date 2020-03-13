@@ -17,13 +17,13 @@ export function App() {
             <Home />
           </Page>
         </Route>
-        <Route exact path="/travel">
+        <Route exact path="/posts">
           <Page>
             <Travel />
           </Page>
         </Route>
         <Route
-          path="/travel/:id"
+          path="/posts/:id"
           children={
             <Page>
               <Post />
@@ -35,6 +35,14 @@ export function App() {
             <LifeAbroad />
           </Page>
         </Route>
+        <Route
+          path="/life-abroad/:id"
+          children={
+            <Page>
+              <Post />
+            </Page>
+          }
+        ></Route>
         <Route exact path="/about">
           <Page>
             <About />

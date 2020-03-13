@@ -18,10 +18,11 @@ export function Home() {
           <p className={styles.description}>
             <span className={styles["first-letter"]}>"W</span>e travel not to
             escape life but for life to not escape us" -Robyn Young. Travel is
-            truly something that everyone should consider. Why? Well let`s just
-            say that. . . at the end of the day , what is more valuable to us?
-            The material items that fill our home..or the memories that fill our
-            heart? Join my journey of growth while travelling to discover more!
+            truly something that everyone should consider. Why? Well let's just
+            say that. . . at the end of the day, what is more valuable to us?
+            The material items that fill our home... or the memories that fill
+            our heart? Join my journey of growth while travelling to discover
+            more!
           </p>
         </div>
       </section>
@@ -41,7 +42,17 @@ export function Home() {
           {
             text: "Morocco part 1",
             image: "./img/morocco-main.jpg",
-            onClick: () => history.push("/travel/morocco")
+            onClick: () => history.push("/travel/morocco1")
+          },
+          {
+            text: "Morocco part 2",
+            image: "./img/morocco-main.jpg",
+            onClick: () => history.push("/travel/morocco2")
+          },
+          {
+            text: "Life abroad",
+            image: "./img/morocco-main.jpg",
+            onClick: () => history.push("/lifeAbroad")
           }
         ]}
       ></ImageSection>
