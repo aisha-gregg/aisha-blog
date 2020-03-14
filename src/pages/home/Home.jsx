@@ -41,19 +41,20 @@ export function Home() {
         images={[
           {
             text: "Morocco part 1",
-            image: "./img/morocco-main.jpg",
-            onClick: () => history.push("/travel/morocco1")
+            image: "./img/morocco1.jpg",
+            onClick: () => history.push("/posts/morocco1")
           },
           {
             text: "Morocco part 2",
             image: "./img/morocco-main.jpg",
-            onClick: () => history.push("/travel/morocco2")
-          },
-          {
+            onClick: () => history.push("/posts/morocco2")
+          }
+          /*{
             text: "Life abroad",
             image: "./img/morocco-main.jpg",
-            onClick: () => history.push("/lifeAbroad")
-          }
+            onClick: () => history.push("/posts/life-abroad")
+         </main> }
+         */
         ]}
       ></ImageSection>
 
