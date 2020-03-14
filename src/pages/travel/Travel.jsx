@@ -8,11 +8,15 @@ export function Travel() {
   return (
     <menu className={styles.container}>
       <FeatureImage
-        image="./img/morocco-main.jpg"
-        text="Hello Morocco!"
-        onClick={() => history.push("/travel/morocco")}
+        image="./img/morocco1.jpg"
+        text="Morocco Part 1"
+        onClick={() => history.push("/posts/morocco1")}
       ></FeatureImage>
-
+      <FeatureImage
+        image="./img/morocco-main.jpg"
+        text="Morocco Part 2"
+        onClick={() => history.push("/posts/morocco2")}
+      ></FeatureImage>
       <FeatureImage
         image="./img/cathedral.png"
         isComingSoon

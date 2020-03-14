@@ -4,7 +4,7 @@
 }
 
 .post img {
-  max-width: 300px;
+  max-width: 400px;
   padding: var(--m);
   padding-left: 0;
   border-radius: 20px;
@@ -16,6 +16,22 @@
   text-align: center;
 }
 
+@media (max-width: 720px) {
+  .post img {
+    max-width: 100%;
+    float: none;
+    padding: 0;
+  }
+}
+.post h1,
+.post h2,
+.post h3,
+.post h4,
+.post h5,
+.post h6 {
+  clear: both;
+}
+
 .post > p:first-of-type:first-letter {
   font-size: 72px;
   line-height: 48px;
@@ -25,10 +41,27 @@
   padding: var(--xs);
 }
 
-.post blockquote {
-  border-left: 3px solid var(--primary-color);
-  font-style: italic;
+.post-blockquote {
+  display: flex;
+  justify-content: center;
   float: left;
+  width: 100%;
+}
+
+.post blockquote {
+  font-style: italic;
+  position: relative;
+  font-size: x-large;
+}
+
+.post blockquote:before {
+  content: "";
+  width: 3px;
+  height: 100%;
+  position: absolute;
+  background-color: var(--primary-color);
+  left: 0;
+  background-color: var(--primary-color);
 }
 
 .post blockquote + * {
@@ -37,4 +70,10 @@
 
 .post blockquote > p {
   padding-left: var(--s);
+}
+
+.post ol img,
+.post ul img {
+  float: none;
+  display: block;
 }

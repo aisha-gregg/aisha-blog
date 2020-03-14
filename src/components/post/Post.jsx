@@ -21,7 +21,11 @@ export function Post() {
       const value = await import(`../../posts/${id}.md`);
       const response = await fetch(value.default);
       const post = await response.text();
-      setPost(marked(post));
+      const renderer = new marked.Renderer();
+      renderer.blockquote = quote => {
+        return `<div class="${styles["post-blockquote"]}"><blockquote>${quote}</blockquote></div>`;
+      };
+      setPost(marked(post, { renderer }));
     })();
   }, [id]);
 
