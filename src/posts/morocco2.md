@@ -70,7 +70,7 @@ The views of the city are simply refreshing. On a sunny day the light reflects b
 4. **Vist the flower pot wall.** I think most pictures of the city are taken here lol.
    ![The flowerpots](./img/flowerpot.jpg)
 
-Most importantly get lost in the peaceful magic that is Chefchaouen! I would definitely recommend it if you have the time. Furthermore, there are many more activities you can do like> hiking, getting a moroccan massage or even visiting the National Park and Akchour waterfall, which unfortunately we did not have time to do.
+Most importantly get lost in the peaceful magic that is Chefchaouen! I would definitely recommend it if you have the time. Furthermore, there are many more activities you can do like hiking, getting a moroccan massage or even visiting the National Park and Akchour waterfall, which unfortunately we did not have time to do.
 
 We headed back before sunset to our Ibis hotel content and satisfied with our day and in extension our trip. Morocco is filled with varying culture, moods, vibes and colour. It is also shocking, heartbreaking and interesting.
 
