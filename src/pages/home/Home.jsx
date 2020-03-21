@@ -48,13 +48,12 @@ export function Home() {
             text: "Morocco part 2",
             image: "./img/morocco-main.jpg",
             onClick: () => history.push("/posts/morocco2")
-          }
-          /*{
+          },
+          {
             text: "Life abroad",
-            image: "./img/morocco-main.jpg",
+            image: "./img/lifeabroad.jpg",
             onClick: () => history.push("/posts/life-abroad")
-         </main> }
-         */
+          }
         ]}
       ></ImageSection>
 

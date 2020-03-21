@@ -9,7 +9,7 @@
   cursor: pointer;
 }
 
-.non-navigable {
+.non-navigable:hover {
   cursor: default;
 }
 .title {
