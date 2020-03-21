@@ -34,7 +34,6 @@ Because that sun will burn you alive here and there are barely any clouds during
 ### 3. Culture
 
 Everyone is always out even on weekdays.
-
 It is always a social scene, I would have to say even more than my own country and we do love a party!. It is super common to see a lot of people having drinks after work _ANY DAY_ of the week and yes that means even on Monday. I suppose older people with kids not so much but you may even see a small child
 at 10pm on a Wednesday in a restaurant-type bar with their parents while they have a drink and meal.
 
