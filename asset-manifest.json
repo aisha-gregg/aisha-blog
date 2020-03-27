@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/aisha-blog/static/css/main.b029a8ef.chunk.css",
+    "main.js": "/aisha-blog/static/js/main.2798a813.chunk.js",
+    "main.js.map": "/aisha-blog/static/js/main.2798a813.chunk.js.map",
+    "runtime-main.js": "/aisha-blog/static/js/runtime-main.38618b2d.js",
+    "runtime-main.js.map": "/aisha-blog/static/js/runtime-main.38618b2d.js.map",
+    "static/js/2.72ef9723.chunk.js": "/aisha-blog/static/js/2.72ef9723.chunk.js",
+    "static/js/2.72ef9723.chunk.js.map": "/aisha-blog/static/js/2.72ef9723.chunk.js.map",
+    "static/js/3.4fcae032.chunk.js": "/aisha-blog/static/js/3.4fcae032.chunk.js",
+    "static/js/3.4fcae032.chunk.js.map": "/aisha-blog/static/js/3.4fcae032.chunk.js.map",
+    "static/js/4.fb95c612.chunk.js": "/aisha-blog/static/js/4.fb95c612.chunk.js",
+    "static/js/4.fb95c612.chunk.js.map": "/aisha-blog/static/js/4.fb95c612.chunk.js.map",
+    "static/js/5.0e65e983.chunk.js": "/aisha-blog/static/js/5.0e65e983.chunk.js",
+    "static/js/5.0e65e983.chunk.js.map": "/aisha-blog/static/js/5.0e65e983.chunk.js.map",
+    "static/js/6.71a3948b.chunk.js": "/aisha-blog/static/js/6.71a3948b.chunk.js",
+    "static/js/6.71a3948b.chunk.js.map": "/aisha-blog/static/js/6.71a3948b.chunk.js.map",
+    "index.html": "/aisha-blog/index.html",
+    "precache-manifest.d165b178880accc2e2036b9d2e3cb338.js": "/aisha-blog/precache-manifest.d165b178880accc2e2036b9d2e3cb338.js",
+    "service-worker.js": "/aisha-blog/service-worker.js",
+    "static/css/main.b029a8ef.chunk.css.map": "/aisha-blog/static/css/main.b029a8ef.chunk.css.map",
+    "static/js/2.72ef9723.chunk.js.LICENSE": "/aisha-blog/static/js/2.72ef9723.chunk.js.LICENSE",
+    "static/media/life-abroad.md": "/aisha-blog/static/media/life-abroad.1f5cdaaf.md",
+    "static/media/marseille.md": "/aisha-blog/static/media/marseille.9a77488e.md",
+    "static/media/morocco1.md": "/aisha-blog/static/media/morocco1.8e99cfb1.md",
+    "static/media/morocco2.md": "/aisha-blog/static/media/morocco2.f906bf20.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38618b2d.js",
+    "static/js/2.72ef9723.chunk.js",
+    "static/css/main.b029a8ef.chunk.css",
+    "static/js/main.2798a813.chunk.js"
+  ]
+}
