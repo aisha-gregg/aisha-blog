@@ -20,12 +20,5 @@ jobs:
             ${{ runner.os }}-node-
       - name: install
         run: npm ci
-      - name: Build
-        run: npm run build
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@3.4.1
-        with:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          BRANCH: gh-pages
-          FOLDER: build
-          CLEAN: true
+      - name: Test
+        run: npm test
