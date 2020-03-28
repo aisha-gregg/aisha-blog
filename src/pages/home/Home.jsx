@@ -53,6 +53,11 @@ export function Home() {
             text: "Life abroad",
             image: "./img/lifeabroad.jpg",
             onClick: () => history.push("/posts/life-abroad")
+          },
+          {
+            text: "Oh my, Marseille!",
+            image: "./img/cathedral.jpg",
+            onClick: () => history.push("/posts/marseille")
           }
         ]}
       ></ImageSection>
@@ -60,9 +65,9 @@ export function Home() {
       <ImageSection
         title="Upcoming Posts"
         images={[
-          { text: "Oh my, Marseille!", image: "./img/cathedral.png" },
           { text: "Boungiorno Italy", image: "./img/italy.png" },
-          { text: "London Adventures", image: "./img/london.jpg" }
+          { text: "London Adventures", image: "./img/london.jpg" },
+          { text: "Surviving Quarantine", image: "./img/milan.jpg" }
         ]}
       ></ImageSection>
     </main>

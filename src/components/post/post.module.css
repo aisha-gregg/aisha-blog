@@ -4,11 +4,11 @@
 }
 
 .post img {
-  max-width: 400px;
+  --factor: 1.2;
+  width: calc(100% + var(--l) * 2 * var(--factor));
+  margin: 0 calc(-1 * var(--l) * var(--factor));
   padding: var(--m);
-  padding-left: 0;
-  border-radius: 20px;
-  float: left;
+  border-radius: 50px;
 }
 
 .post h1,
@@ -16,13 +16,6 @@
   text-align: center;
 }
 
-@media (max-width: 720px) {
-  .post img {
-    max-width: 100%;
-    float: none;
-    padding: 0;
-  }
-}
 .post h1,
 .post h2,
 .post h3,
@@ -70,10 +63,4 @@
 
 .post blockquote > p {
   padding-left: var(--s);
-}
-
-.post ol img,
-.post ul img {
-  float: none;
-  display: block;
 }
