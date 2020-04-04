@@ -32,7 +32,7 @@ export function Home() {
         images={[
           { text: "Rome", image: "./img/rome.jpg" },
           { text: "Prague", image: "./img/prague.jpg" },
-          { text: "Lisbon", image: "./img/lisbon.jpg" }
+          { text: "Lisbon", image: "./img/lisbon.jpg" },
         ]}
       ></ImageSection>
 
@@ -42,23 +42,28 @@ export function Home() {
           {
             text: "Morocco part 1",
             image: "./img/morocco1.jpg",
-            onClick: () => history.push("/posts/morocco1")
+            onClick: () => history.push("/posts/morocco1"),
           },
           {
             text: "Morocco part 2",
             image: "./img/morocco-main.jpg",
-            onClick: () => history.push("/posts/morocco2")
+            onClick: () => history.push("/posts/morocco2"),
           },
           {
             text: "Life abroad",
             image: "./img/lifeabroad.jpg",
-            onClick: () => history.push("/posts/life-abroad")
+            onClick: () => history.push("/posts/life-abroad"),
           },
           {
             text: "Oh my, Marseille!",
             image: "./img/cathedral.jpg",
-            onClick: () => history.push("/posts/marseille")
-          }
+            onClick: () => history.push("/posts/marseille"),
+          },
+          {
+            text: "Surviving quarantine",
+            image: "./img/quarantine.jpg",
+            onClick: () => history.push("/posts/quarantine"),
+          },
         ]}
       ></ImageSection>
 
@@ -67,7 +72,6 @@ export function Home() {
         images={[
           { text: "Boungiorno Italy", image: "./img/italy.png" },
           { text: "London Adventures", image: "./img/london.jpg" },
-          { text: "Surviving Quarantine", image: "./img/milan.jpg" }
         ]}
       ></ImageSection>
     </main>
