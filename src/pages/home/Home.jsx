@@ -64,15 +64,18 @@ export function Home() {
             image: "./img/quarantine.jpg",
             onClick: () => history.push("/posts/quarantine"),
           },
+
+          {
+            text: "Boungiorno Italy Part1",
+            image: "./img/italy.png",
+            onClick: () => history.push("/posts/Italy1"),
+          },
         ]}
       ></ImageSection>
 
       <ImageSection
         title="Upcoming Posts"
-        images={[
-          { text: "Boungiorno Italy", image: "./img/italy.png" },
-          { text: "London Adventures", image: "./img/london.jpg" },
-        ]}
+        images={[{ text: "London Adventures", image: "./img/london.jpg" }]}
       ></ImageSection>
     </main>
   );

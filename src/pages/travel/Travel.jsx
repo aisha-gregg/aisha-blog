@@ -18,15 +18,15 @@ export function Travel() {
         onClick={() => history.push("/posts/morocco2")}
       ></FeatureImage>
       <FeatureImage
-        image="./img/cathedral.png"
-        isComingSoon
+        image="./img/cathedral.jpg"
         text="Cote d´Azur Holiday"
+        onClick={() => history.push("/posts/marseille")}
       ></FeatureImage>
 
       <FeatureImage
         image="./img/italy.png"
-        isComingSoon
         text="Buongiorno Italy"
+        onClick={() => history.push("/posts/Italy1")}
       ></FeatureImage>
 
       <FeatureImage
