@@ -4,7 +4,7 @@
 
 This is something I hear time and time again. Expectations can ruin you. They present you with so much veiled distraction from reality's truth.
 
-And that is exactly what I did before heading to Lisbon, Portugal, in January of 2020. (Unknowingly, it would be one of the very last trips (outside of Spain) that I would embark on before the global pandemic led to international quarantine and lockdown.)
+And that is exactly what I did before heading to Lisbon, Portugal, in January of 2020. (Unknowingly, it would be one of the very last trips that I would embark on before the global pandemic led to international quarantine and lockdown.)
 
 But I had **NO** expectations.
 
@@ -22,34 +22,34 @@ The first thing we did was head close to the centre to walk and take a drink. We
 
 So here are the best things to do in Lisbon (IMO):
 
-2. **Visit the commerical square.**
+1. **Visit the commerical square.**
    This huge square is the quintessential square which you can find in many european cities. It is called the square of commerce because of its function
    within Lisbon's economy. Government buildings sit within these walls and carry out main activities such as customs.
    ![commercialsq](./img/squarec.jpg)
 
-3. **Rua agusta arc.**
+2. **Rua agusta arc.**
    This beautiful arc with clock is situated around the commercial square and is the main exit and entrance to the square. It was constructed in 1775 and destroyed. The new arc was rebuilt and finished in 1875. It is a main highlight of the square.
    ![arce](./img/arc.jpg)
 
-4. **Elevator of Santa Justa.**
+3. **Elevator of Santa Justa.**
    An elevator in the neighbourhood of Pombalina rises 45 meters in the air in its gothic facade. You can go for a ride free of charge and it carrries you to a terrace top where you can take in precious views of the city.![santajusta](./img/santaj.jpg)
 
-5. **Mirador de Santa Catarina.**
+4. **Mirador de Santa Catarina.**
    In barrio alto (uphill neighbourhood?🤔😅) you can find this lookout and catch even more breathtaking views of the city. A lot of people hang out here and it is very close to the elevator of Bica.
 
-6. **Bica Elevator.**
+5. **Bica Elevator.**
    So this is the most pictured location in lisbon! Everyone takes this funicular to get from sao paulo street to the south of barrio alto. To ride it you pay around 3 euros (2.90) It is the most traditional form of communication in the city. They say it captures the old essence that is Lisbon.
    ![bica](./img/bica.jpg)
 
-7. **Tower of Belem.**
+6. **Tower of Belem.**
    This tower is also a very photographed monument. It was used as a fortress to protect the city from invaders and was where sailors would leave to embark on commerical trade within Europe. We could not make it to the belem tower at day but it is gloriously illuminated at nightfall.
    ![belem](./img/belem.jpg)
 
-8. **Christo Rey in Almada.** Across bridge 25 lies the pleasant nearby town of Almada which boasts of its green pastures and the Christo Rey. Honestly, I had no idea of this monument before coming to Lisbon and it made the surprise so much better. Remember, no expectations?😉
+7. **Christo Rey in Almada.** Across bridge 25 lies the pleasant nearby town of Almada which boasts of its green pastures and the Christo Rey. Honestly, I had no idea of this monument before coming to Lisbon and it made the surprise so much better. Remember, no expectations?😉
    It is very similar to the Christo Rey in Brazil and all I can say is... it is moving and so worth the trip.
    ![christorey](./img/christo.jpg)
 
-9. **Day trip to Sintra.**
+8. **Day trip to Sintra.**
    Sintra is a beautiful mountain town located near Lisbon. You need to have a car to get there and the journey takes about 1 hour. Its national palace of pena is breathtaking! No doubt you feel like you have been swallowed up in a fairytale just gazing at it. It showcases large pastel coloured walls of yellow and red and expands an area of some 200 hectares! It was one of the main residences of the royal portuguese family. It is also a world heritage site. Surrounding the palace you can find gardens, lakes, greenhouses and more. Take a tour of the palace for 14 euros each.
 
    Just a side note, getting to the palace is very difficult as parking space is super limited. When you do find parking almost at the base of the mountain (like we did), you may opt to walk an hour and a half to the palace, or take a tuk tuk which costs 20 euros return trip...each.😐 Take an uber if you are short of cash. Trust me.
