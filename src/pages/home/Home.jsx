@@ -32,7 +32,11 @@ export function Home() {
         images={[
           { text: "Rome", image: "./img/rome.jpg" },
           { text: "Prague", image: "./img/prague.jpg" },
-          { text: "Lisbon", image: "./img/lisbon.jpg" },
+          {
+            text: "Lisbon",
+            image: "./img/lisbon.jpg",
+            onClick: () => history.push("/posts/lisbon"),
+          },
         ]}
       ></ImageSection>
 
