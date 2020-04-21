@@ -3,7 +3,7 @@ import { FeatureImage } from "./FeatureImage";
 
 export default {
   title: "FeatureImage",
-  component: FeatureImage
+  component: FeatureImage,
 };
 
 export const base = () => (
