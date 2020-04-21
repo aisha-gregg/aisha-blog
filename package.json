@@ -18,10 +18,11 @@
   "scripts": {
     "start": "react-scripts start",
     "start:storybook": "start-storybook -p 9009 -s public",
-    "build": "react-scripts build",
+    "build": "react-scripts build && npm run optimize",
     "build:storybook": "build-storybook -s public",
     "deploy": "gh-pages -d build",
-    "test": "react-scripts test"
+    "test": "react-scripts test",
+    "optimize": "node scripts/optimize-images.js"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -43,6 +44,11 @@
     "@storybook/addon-links": "^5.3.17",
     "@storybook/addons": "^5.3.17",
     "@storybook/preset-create-react-app": "^2.1.1",
-    "@storybook/react": "^5.3.17"
+    "@storybook/react": "^5.3.17",
+    "imagemin": "7.0.1",
+    "imagemin-dir": "1.0.0-alpha.1",
+    "imagemin-gifsicle": "7.0.0",
+    "imagemin-mozjpeg": "8.0.0",
+    "imagemin-optipng": "7.1.0"
   }
 }

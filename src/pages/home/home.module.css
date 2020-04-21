@@ -14,21 +14,6 @@
   color: var(--primary-color);
 }
 
-.profile-photo {
-  border-radius: 10px;
-  float: right;
-  shape-outside: polygon(
-    141px 191px,
-    84px 104px,
-    120px 41px,
-    153px 27px,
-    190px -2px,
-    343px 2px,
-    342px 430px,
-    2px 432px
-  );
-}
-
 .description {
   margin: 0;
   padding: 0;

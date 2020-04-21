@@ -3,9 +3,9 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
+  background-color: rgb(243, 210, 103);
   border-bottom-style: inset;
-
+  z-index: 1;
   padding-top: var(--s);
 }
 
@@ -28,8 +28,8 @@
   position: absolute;
 
   z-index: -1;
-  filter: sepia(31%) saturate(1417%) hue-rotate(156deg) brightness(114%)
-    contrast(93%);
+  filter: sepia(7%) saturate(1423%) hue-rotate(338deg) brightness(80%)
+    contrast(171%);
 }
 .links {
   display: flex;
