@@ -13,7 +13,7 @@
   cursor: default;
 }
 .title {
-  position: absolute;
+  position: relative;
 }
 .container p {
   margin: 0;

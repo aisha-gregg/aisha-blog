@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./feature-image.module.css";
 
-export function FeatureImage({ text, onClick, isComingSoon }) {
+export function FeatureImage({ text, image, onClick, isComingSoon }) {
   return (
     <div
       className={
@@ -12,6 +12,7 @@ export function FeatureImage({ text, onClick, isComingSoon }) {
       onClick={() => onClick !== undefined && onClick()}
     >
       <div className={styles.title}>
+        <img src={image} alt="" />
         <p>{text}</p>
 
         {isComingSoon && <p>Coming soon!</p>}
