@@ -4,8 +4,8 @@ const imageminOptipng = require("imagemin-optipng");
 const imageminGifsicle = require("imagemin-gifsicle");
 
 (async () => {
-  const files = await imagemin(["build/**/*.{jpg,png,jpeg,svg,gif}"], {
-    destination: "build",
+  const files = await imagemin(["build/img/*.{jpg,png,jpeg,svg,gif}"], {
+    destination: "build/img",
     plugins: [imageminGifsicle(), imageminMozjpeg(), imageminOptipng()],
   });
 
