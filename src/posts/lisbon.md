@@ -8,9 +8,9 @@ And that is exactly what I did before heading to Lisbon, Portugal, in January of
 
 But I had **NO** expectations.
 
-To tell you the truth, I did not even think Lisbon was that highly regarded as a touriist destination, which honestly can make it a little more uncomfortable _OR_ can give you a more lively holiday...depending on what feeds your travel soul. It all depends on what you are looking for. In my case, we had just rolled in the new year and I had a long weekend before I would start teaching at my school. I wanted to go on a mini-getaway, near the sea, without the rush of the airport and flights. Let's admit it...the airport process...is just a **'no'** sometimes.
+To tell you the truth, I did not even think Lisbon was that highly regarded as a tourist destination, which honestly can make it a little more uncomfortable _OR_ can give you a more lively holiday... depending on what feeds your travel soul. It all depends on what you are looking for. In my case, we had just rolled in the new year and I had a long weekend before I would start teaching at my school. I wanted to go on a mini-getaway, near the sea, without the rush of the airport and flights. Let's admit it... the airport process... is just a **'no'** sometimes.
 
-So we rented a car from Sixt - a very well-known car rental company in Europe - and began our roadtrip! Driving from Madrid to Lisbon takes around 6 hours with toll bridges and close to 7 hours without. We left early morning and arrived in Lisbon around 1pm. We passed through the city of Badajoz, Spain. It was my first time seeing the city but honestly, it's not too much to see. We passed close to Evora, Portugal, which is a world heritage site. The views get greener and the landscapes more extended as you start to cross over the border. Looking up at the huge electrical road sign with the time on it, was almost magical, as we were transported back in time on entering Portugal. Because Spain's neighbouring country is an hour behind, we got to re-use that time on arriving in the city.
+So we rented a car from Sixt -a very well-known car rental company in Europe- and began our roadtrip! Driving from Madrid to Lisbon takes around 6 hours with toll bridges and close to 7 hours without. We left early morning and arrived in Lisbon around 1pm. We passed through the city of Badajoz, Spain. It was my first time seeing the city but honestly, it's not too much to see. We passed close to Evora, Portugal, which is a world heritage site. The views get greener and the landscapes more extended as you start to cross over the border. Looking up at the huge electrical road sign with the time on it, was almost magical, as we were transported back in time on entering Portugal. Because Spain's neighbouring country is an hour behind, we got to re-use that time on arriving in the city.
 
 > Expectations can ruin you. They present you with so much veiled distraction to reality's truth.
 
@@ -28,7 +28,7 @@ So here are the best things to do in Lisbon (IMO):
    ![commercialsq](./img/squarec.jpg)
 
 2. **Rua agusta arc.**
-   This beautiful arc with clock is situated around the commercial square and is the main exit and entrance to the square. It was constructed in 1775 and destroyed. The new arc was rebuilt and finished in 1875. It is a main highlight of the square.
+   This beautiful arc with clock is situated around the commercial square and is the main exit and entrance to the square. It was constructed in 1775 and destroyed. The new arc was rebuilt and finished in 1875. It is the main highlight of the square.
    ![arce](./img/arc.jpg)
 
 3. **Elevator of Santa Justa.**
@@ -42,7 +42,7 @@ So here are the best things to do in Lisbon (IMO):
    ![bica](./img/bica.jpg)
 
 6. **Tower of Belem.**
-   This tower is also a very photographed monument. It was used as a fortress to protect the city from invaders and was where sailors would leave to embark on commerical trade within Europe. We could not make it to the belem tower at day but it is gloriously illuminated at nightfall.
+   This tower is also a very photographed monument. It was used as a fortress to protect the city from invaders and was where sailors would leave to embark on commerical trade within Europe. We could not make it to the Belem tower at day but it is gloriously illuminated at nightfall.
    ![belem](./img/belem.jpg)
 
 7. **Christo Rey in Almada.** Across bridge 25 lies the pleasant nearby town of Almada which boasts of its green pastures and the Christo Rey. Honestly, I had no idea of this monument before coming to Lisbon and it made the surprise so much better. Remember, no expectations?😉
@@ -52,7 +52,7 @@ So here are the best things to do in Lisbon (IMO):
 8. **Day trip to Sintra.**
    Sintra is a beautiful mountain town located near Lisbon. You need to have a car to get there and the journey takes about 1 hour. Its national palace of pena is breathtaking! No doubt you feel like you have been swallowed up in a fairytale just gazing at it. It showcases large pastel coloured walls of yellow and red and expands an area of some 200 hectares! It was one of the main residences of the royal portuguese family. It is also a world heritage site. Surrounding the palace you can find gardens, lakes, greenhouses and more. Take a tour of the palace for 14 euros each.
 
-   Just a side note, getting to the palace is very difficult as parking space is super limited. When you do find parking almost at the base of the mountain (like we did), you may opt to walk an hour and a half to the palace, or take a tuk tuk which costs 20 euros return trip...each.😐 Take an uber if you are short of cash. Trust me.
+   Just a side note, getting to the palace is very difficult as parking space is super limited. When you do find parking almost at the base of the mountain (like we did), you may opt to walk an hour and a half to the palace, or take a tuk tuk which costs 20 euros return trip...each.😐 Take an Uber if you are short on cash. Trust me.
 
    So there you have it! Lisbon was definitely so much more enjoyable, beautiful, refreshing and vibrant than I would have EVER thought. It just so happened that we also went during Christmas time; lights still up, so that christmas spirit being present in such an amazing city, definitely made it a lot more exciting. I had little to no expectations and it made this trip and this city one of my favourites to date.
 
