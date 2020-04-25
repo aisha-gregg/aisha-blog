@@ -3,16 +3,20 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: rgb(243, 210, 103);
+  background-color: rgb(46, 23, 151);
   border-bottom-style: inset;
   z-index: 1;
   padding-top: var(--s);
 }
 
+.logo {
+  display: flex;
+}
+
 .title {
   margin: 0;
   text-align: right;
-  color: rgb(80, 80, 80);
+  color: rgb(255, 250, 250);
 }
 
 .link {
@@ -24,13 +28,24 @@
 }
 
 .photologo {
-  max-width: 500px;
+  max-width: 800px;
   position: absolute;
-
+  justify-content: left;
   z-index: -1;
-  filter: sepia(7%) saturate(1423%) hue-rotate(338deg) brightness(80%)
-    contrast(171%);
+  filter: sepia(56%) saturate(1514%) hue-rotate(724deg) brightness(72%)
+    contrast(170%);
 }
+.box {
+  display: flex;
+  flex-direction: row;
+}
+.profile {
+  min-width: 500px;
+  min-height: 500px;
+
+  justify-content: right;
+}
+
 .links {
   display: flex;
   justify-content: center;
@@ -44,5 +59,5 @@
 .social-links {
   display: flex;
   justify-content: center;
-  margin-top: 5px;
+  margin-top: 400px;
 }

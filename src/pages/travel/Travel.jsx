@@ -31,7 +31,6 @@ export function Travel() {
 
       <FeatureImage
         image="./img/london.jpg"
-        isComingSoon
         text="London adventures"
       ></FeatureImage>
       {/*<Link>

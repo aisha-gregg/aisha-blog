@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Abril+Fatface|Open+Sans|Reenie+Beanie&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Abril+Fatface|Open+Sans|Annie+Use+Your+Telescope|Indie+Flower&display=swap");
 
 body,
 html {
@@ -20,7 +20,7 @@ html {
   --s: 24px;
   --m: 32px;
   --l: 64px;
-  --primary-header-font: "Abril Fatface", cursive;
+  --primary-header-font: "Annie Use Your Telescope", cursive;
   --secondary-header-font: "Reenie Beanie", cursive;
   --body-font: "Open Sans", sans-serif;
 }

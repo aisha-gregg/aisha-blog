@@ -1,5 +1,5 @@
 .content {
-  margin: large;
+  margin: 0 auto;
   max-width: 60rem;
   flex: 1;
   padding: var(--s);

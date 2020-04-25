@@ -1,7 +1,8 @@
 .contact img {
-  max-width: 30px;
+  max-width: 50px;
   overflow: hidden;
   transition-duration: 0.5s;
+  border-radius: var(--large);
 }
 
 .contact {

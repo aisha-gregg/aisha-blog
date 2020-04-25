@@ -6,6 +6,18 @@
   animation-delay: 0.5s;
 }
 
+.first {
+  grid-row: span 2;
+}
+
+.third {
+  grid-row: span 2;
+}
+
+.fifth {
+  grid-column: span 2;
+}
+
 @keyframes slide {
   100% {
     opacity: 1;
@@ -18,6 +30,8 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: var(--xs);
+  grid-auto-rows: 200px;
+  grid-template-rows: repeat(3, 200px);
 }
 
 @media (max-width: 720px) {

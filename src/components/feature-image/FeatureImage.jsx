@@ -1,22 +1,19 @@
 import React from "react";
 import styles from "./feature-image.module.css";
+import classnames from "classnames/bind";
 
-export function FeatureImage({ text, image, onClick, isComingSoon }) {
+const cx = classnames.bind(styles);
+
+export function FeatureImage({ text, image, onClick, className }) {
   return (
     <div
-      className={
-        styles.container +
-        " " +
-        (onClick === undefined ? styles["non-navigable"] : styles["navigable"])
-      }
+      className={cx("container", className, {
+        "non-navigable": onClick === undefined,
+      })}
       onClick={() => onClick !== undefined && onClick()}
     >
-      <div className={styles.title}>
-        <img src={image} alt="" />
-        <p>{text}</p>
-
-        {isComingSoon && <p>Coming soon!</p>}
-      </div>
+      <img src={image} alt="" />
+      <h2 className={cx("title")}>{text}</h2>
     </div>
   );
 }
