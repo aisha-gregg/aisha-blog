@@ -79,7 +79,6 @@ small {
   font-size: 0.999em;
 }
 
-.alternate-title {
-  font-family: var(--secondary-header-font);
-  font-weight: bold;
+img {
+  max-width: 650px;
 }

@@ -4,10 +4,17 @@
   flex: 1;
   padding: var(--s);
 }
-
+.line {
+  height: 3000px;
+  z-index: -1;
+  fill: var(--primary-color);
+  opacity: 1;
+  position: absolute;
+}
 .wrapper {
   overflow: hidden;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  position: relative;
 }

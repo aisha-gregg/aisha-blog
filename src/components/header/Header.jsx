@@ -8,22 +8,13 @@ export function Header() {
     <header className={styles.header}>
       <div className={styles.logo}>
         <Link className={styles.link} to="/">
-          <h1 className={styles.title}>
-            The adventures
-            <br />
-            of A.K
-          </h1>
-          <img
-            src="./img/paper-plane.png"
-            alt=""
-            className={styles.photologo}
-          />
+          <div>
+            <h1 className={styles.title}>The adventures of A.K</h1>
+            <h2 className={styles.subheading}> -- Wandering at heart's risk</h2>
+          </div>
         </Link>
-        <div className={styles.box}>
-          <img src="./img/profile.png" alt="" className={styles.profile} />
-        </div>
 
-        <SocialMediaLinks className={styles["social-links"]}></SocialMediaLinks>
+        <img src="./img/profile1.png" alt="" className={styles.profile} />
       </div>
     </header>
   );

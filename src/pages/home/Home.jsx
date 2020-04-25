@@ -13,6 +13,7 @@ export function Home() {
       <About></About>
 
       <ImageSection
+        title="My Posts"
         images={[
           { text: "Rome", image: "./img/rome.jpg" },
           {

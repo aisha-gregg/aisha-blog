@@ -8,11 +8,8 @@ export function Footer() {
     <footer className={styles.footer}>
       <div className={styles.links}>
         <h5 className={"alternate-title" + " " + styles.title}>
-          Last Updated: January 2020
+          Last Updated: April 2020 Follow me!
         </h5>
-        <Link to="/">Home</Link>
-        <Link to="/about">About</Link>
-        <Link to="/travel">Travel</Link>
       </div>
       <SocialMediaLinks></SocialMediaLinks>
     </footer>
