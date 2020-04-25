@@ -39,7 +39,7 @@
 }
 
 .profile {
-  opacity: 0.4;
-  filter: saturate(0.6);
+  opacity: 0.6;
+  filter: saturate(0.8);
   object-fit: contain;
 }
