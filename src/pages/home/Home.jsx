@@ -15,7 +15,11 @@ export function Home() {
       <ImageSection
         title="My Posts"
         images={[
-          { text: "Rome", image: "./img/rome.jpg" },
+          {
+            text: "Boungiorno Italy Part II",
+            image: "./img/italy2.jpg",
+            onClick: () => history.push("/posts/Italy2"),
+          },
           {
             text: "Lisbon",
             image: "./img/lisbon.jpg",
@@ -55,7 +59,10 @@ export function Home() {
             onClick: () => history.push("/posts/Italy1"),
           },
 
-          { text: "London Adventures", image: "./img/london.jpg" },
+          {
+            text: "London Adventures (Coming soon)",
+            image: "./img/london.jpg",
+          },
         ]}
       ></ImageSection>
     </main>
