@@ -38,4 +38,16 @@
   .images {
     grid-template-columns: 1fr;
   }
+
+  .first {
+    grid-row: span 1;
+  }
+
+  .third {
+    grid-row: span 1;
+  }
+
+  .fifth {
+    grid-column: span 1;
+  }
 }

@@ -79,6 +79,25 @@ small {
   font-size: 0.999em;
 }
 
-img {
-  max-width: 650px;
+a {
+  color: var(--primary-color);
+  position: relative;
+  text-decoration: none;
+}
+
+a:hover:after {
+  opacity: 1;
+  transform: translateX(0%);
+}
+
+a::after {
+  content: "";
+  opacity: 0;
+  transform: translateX(-100%);
+  position: absolute;
+  width: 100%;
+  left: 0;
+  bottom: -4px;
+  border-bottom: 2px dashed var(--primary-color);
+  transition: all 0.25s ease-in-out;
 }

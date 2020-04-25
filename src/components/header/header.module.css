@@ -1,65 +1,45 @@
 .header {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
   background-color: rgb(115, 23, 177);
-  border-bottom-style: inset;
   z-index: 1;
-  padding-top: var(--s);
+  padding: var(--l);
+  padding-bottom: 0;
 }
 
-.logo {
-  display: flex;
+@media (max-width: 720px) {
+  .header {
+    flex-direction: column;
+    padding: var(--s);
+  }
 }
 
 .title {
   font-size: var(--l);
   margin: 0;
-  text-align: right;
   color: rgb(255, 250, 250);
-  flex-wrap: wrap;
-  text-align: center;
+}
+
+.intro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .subheading {
-  text-align: center;
+  color: var(--primary-color);
 }
-h2 {
-  padding-left: var(--l);
-}
+
 .link {
-  /* look up ways to evade !important and make style load first*/
-  position: relative;
-  display: flex !important;
+  display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.box {
-  display: flex;
-  flex-direction: row;
-}
 .profile {
-  min-width: 500px;
-  min-height: 500px;
-  filter: brightness(130%);
-
-  justify-content: right;
-}
-
-.links {
-  display: flex;
-  justify-content: center;
-}
-
-.links h2 {
-  margin: var(--xs) var(--xxs);
-  margin-bottom: 0;
-  font-weight: 600;
-}
-.social-links {
-  display: flex;
-  justify-content: center;
-  margin-top: 400px;
+  opacity: 0.4;
+  filter: saturate(0.6);
+  object-fit: contain;
 }

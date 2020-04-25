@@ -4,7 +4,7 @@
 }
 
 .post img {
-  --factor: 1.2;
+  --factor: 1.4;
   width: calc(100% + var(--l) * 2 * var(--factor));
   margin: 0 calc(-1 * var(--l) * var(--factor));
   padding: var(--m);
