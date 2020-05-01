@@ -1,6 +1,5 @@
 import React from "react";
 import styles from "./footer.module.css";
-import { Link } from "../link/Link";
 import { SocialMediaLinks } from "../social-media-links/SocialMediaLinks";
 
 export function Footer() {

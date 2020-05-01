@@ -2,7 +2,7 @@
 
 On August 3rd of last summer, I saw the blue seas of the southern french coast for the first time in my life. In French, it is famously known as cote d'azur (the french riviera). They were a radiant blue that went on for miles even caressing popular cities such as Cannes (which we visited for a day), Saint-Tropez, Nice and Montpellier.
 
-![Cannes](./img/cannesview.jpg)
+![Cannes](/img/cannesview.jpg)
 
 ###### view of cannes
 
@@ -12,7 +12,7 @@ The first day we arrived we were able to catch a coach from the airport to the c
 
 The bus terminal sits on a hilly platform so that when you exit the main station you see some pretty decent views of the city around you. You need to climb down numerous stairs (It's actually not as bad as it sounds) and from there you can catch a taxi or walk depending on the location of your hotel, hostel or Airbnb.
 
-![The center](./img/center.jpg)
+![The center](/img/center.jpg)
 
 We walked for about 15 to 20 minutes to get to our Airbnb. It was in a central location close to Castelane and honestly very lovely.It was a duplex with beautiful french windows which allowed for daily sunlight to flood the house. We also had a view of a small garden. It was probably the best Airbnb experience I've ever had.
 
@@ -34,15 +34,15 @@ Places to visit:
 **The Old Port.** Here you can get souvenirs and catch a ferry to visit the calanques.
 
 **The Notre Dame de la Garde.** This is the church that sits on the largest hill overlooking the city.You get breathtaking views of the city and the sea below you. Also, take a moment to enjoy the sunset. You will have such a relaxing time and there isn't too much of a crowd either!
-![notre](./img/notre2.jpg)
+![notre](/img/notre2.jpg)
 
 **Palais Lonchamp.** This was a stunning gem that we got to see our last day in Marseille.It is a monument with a park and an art and history museum.The main feature is the large bull sculpture and fountain.
 
-![longchamp](./img/longchamp.jpg)
+![longchamp](/img/longchamp.jpg)
 
 **Marseille Santa Maria Cathedral.** If you are into cathedrals and arquitecture this monument sits close to the dock in the city and stands out for its romanesque style-it is white with dark brown stripes running over its surface.
 
-![cathedral](./img/cathedral.jpg)
+![cathedral](/img/cathedral.jpg)
 
 **The Calanque National Park**. This was my favourite! It is a tiring journey and you can get to the calanques two ways:
 
@@ -52,12 +52,12 @@ Places to visit:
 
 Just some advice: Walk with some water shoes because the stones where you bathe can hurt your feet. And the water is super-and I mean, SUPER cold!
 
-![dip](./img/dip.jpg)
+![dip](/img/dip.jpg)
 
 ###### calanque Morgiou
 
 **Visit Cassis.** Cassis is a beautiful port city located 35 minutes outside of Marseille. You can catch a bus in Castelane. The beaches and the food there are incredible. The fish soup speciality there is called "Bouillabaisse".
-![casis](./img/casis.jpg)
+![casis](/img/casis.jpg)
 The people in Marseille where very nice and at the end of the week I found myself understanding the clerks in the stores and some people in the street.I am super content with my French immersion and would recommend it to anyone looking to improve or start a new language. Today I am still learning French and hope to have another summer immersion soon.
 
 Hmm, which French city should I visit next?

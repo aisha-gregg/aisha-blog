@@ -8,6 +8,7 @@ const cx = classNamesBind.bind(styles);
 export function ImageSection({ title, images }) {
   const render = images.map((image, index) => (
     <FeatureImage
+      key={index}
       text={image.text}
       image={image.image}
       onClick={image.onClick}

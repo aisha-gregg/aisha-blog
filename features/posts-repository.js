@@ -16,7 +16,6 @@ export function getPosts() {
     const result = matter(fileContents).data;
     return {
       id,
-      contentHtml: "",
       ...result,
     };
   });
@@ -47,9 +46,5 @@ export async function getPost(id) {
     .process(matterResult.content);
   const contentHtml = processedContent.toString();
 
-  return {
-    id,
-    contentHtml,
-    ...matterResult.data,
-  };
+  return contentHtml;
 }

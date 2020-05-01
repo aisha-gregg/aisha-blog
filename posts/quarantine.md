@@ -39,7 +39,7 @@ No leisure- no salsa dancing at the local discotecas, no eating out with friends
 No parks.
 No bowling.
 No ski.
-![restuarant hindu](./img/salir.jpg)
+![restuarant hindu](/img/salir.jpg)
 
 ###### My friends and I at an indian restaurant.
 

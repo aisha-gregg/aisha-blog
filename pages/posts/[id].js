@@ -1,10 +1,10 @@
 import React from "react";
-import { getPostIds, getPost } from "../../posts-repository";
+import { getPostIds, getPost } from "../../features/posts-repository";
 import styles from "./post.module.css";
 import { DiscussionEmbed } from "disqus-react";
 import { Page } from "../../components/page/Page";
 
-export default function Post({ post }) {
+export default function Post({ post, id }) {
   const disqusConfig = {
     url: "https://aishagregg.disqus.com/",
     identifier: id,
@@ -34,6 +34,7 @@ export async function getStaticProps({ params }) {
   return {
     props: {
       post,
+      id: params.id,
     },
   };
 }

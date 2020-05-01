@@ -25,29 +25,29 @@ So here are the best things to do in Lisbon (IMO):
 1. **Visit the commerical square.**
    This huge square is the quintessential square which you can find in many european cities. It is called the square of commerce because of its function
    within Lisbon's economy. Government buildings sit within these walls and carry out main activities such as customs.
-   ![commercialsq](./img/squarec.jpg)
+   ![commercialsq](/img/squarec.jpg)
 
 2. **Rua agusta arc.**
    This beautiful arc with clock is situated around the commercial square and is the main exit and entrance to the square. It was constructed in 1775 and destroyed. The new arc was rebuilt and finished in 1875. It is a main highlight of the square.
-   ![arce](./img/arc.jpg)
+   ![arce](/img/arc.jpg)
 
 3. **Elevator of Santa Justa.**
-   An elevator in the neighbourhood of Pombalina rises 45 meters in the air in its gothic facade. You can go for a ride free of charge and it carrries you to a terrace top where you can take in precious views of the city.![santajusta](./img/santaj.jpg)
+   An elevator in the neighbourhood of Pombalina rises 45 meters in the air in its gothic facade. You can go for a ride free of charge and it carrries you to a terrace top where you can take in precious views of the city.![santajusta](/img/santaj.jpg)
 
 4. **Mirador de Santa Catarina.**
    In barrio alto (uphill neighbourhood?🤔😅) you can find this lookout and catch even more breathtaking views of the city. A lot of people hang out here and it is very close to the elevator of Bica.
 
 5. **Bica Elevator.**
    So this is the most pictured location in lisbon! Everyone takes this funicular to get from sao paulo street to the south of barrio alto. To ride it you pay around 3 euros (2.90) It is the most traditional form of communication in the city. They say it captures the old essence that is Lisbon.
-   ![bica](./img/bica.jpg)
+   ![bica](/img/bica.jpg)
 
 6. **Tower of Belem.**
    This tower is also a very photographed monument. It was used as a fortress to protect the city from invaders and was where sailors would leave to embark on commerical trade within Europe. We could not make it to the belem tower at day but it is gloriously illuminated at nightfall.
-   ![belem](./img/belem.jpg)
+   ![belem](/img/belem.jpg)
 
 7. **Christo Rey in Almada.** Across bridge 25 lies the pleasant nearby town of Almada which boasts of its green pastures and the Christo Rey. Honestly, I had no idea of this monument before coming to Lisbon and it made the surprise so much better. Remember, no expectations?😉
    It is very similar to the Christo Rey in Brazil and all I can say is... it is moving and so worth the trip.
-   ![christorey](./img/christo.jpg)
+   ![christorey](/img/christo.jpg)
 
 8. **Day trip to Sintra.**
    Sintra is a beautiful mountain town located near Lisbon. You need to have a car to get there and the journey takes about 1 hour. Its national palace of pena is breathtaking! No doubt you feel like you have been swallowed up in a fairytale just gazing at it. It showcases large pastel coloured walls of yellow and red and expands an area of some 200 hectares! It was one of the main residences of the royal portuguese family. It is also a world heritage site. Surrounding the palace you can find gardens, lakes, greenhouses and more. Take a tour of the palace for 14 euros each.
@@ -58,4 +58,4 @@ So here are the best things to do in Lisbon (IMO):
 
    Até logo, Lisbon! 👌
 
-   ![sintra](./img/sintra.jpg)
+   ![sintra](/img/sintra.jpg)

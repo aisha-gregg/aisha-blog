@@ -6,7 +6,7 @@ For all it is worth, it is a very rewarding experience. The independence you gai
 
 ### 1. Food
 
-![blackrice](./img/arroznegro.jpg)
+![blackrice](/img/arroznegro.jpg)
 
 One big difference is the local food here. It is fine but coming from a palate that is used to a lot of flavour and spice it can be underwhelming at times. The dishes of my country usually have some indian influence and I found that the local plates like paella, fries and egg and croquetas were not as amazing as many tourists claimed. A runny sunny side up egg and fries is also a big thing here, which honestly I still don't get lol. I did eventually have the opportunity to have homemade paella and it was amazing. A lot of the food here grew on me though and I enjoy it now ...thankfully.
 
@@ -16,15 +16,15 @@ Some of my favourite Spanish dishes include:
 
 2.**Tortilla de Patata (Spanish Omelette)**
 
-![blackrice](./img/tortilla.jpg)
+![blackrice](/img/tortilla.jpg)
 
 3.**Calamares fritos(Fried squid)**
 
-![blackrice](./img/calamares.jpg)
+![blackrice](/img/calamares.jpg)
 
 ### 2. Weather
 
-![snowinnavacerrada](./img/navacerrada.jpg)
+![snowinnavacerrada](/img/navacerrada.jpg)
 
 ###### (Me, in the snowy mountains of Navacerrada, Madrid)
 

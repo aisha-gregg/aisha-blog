@@ -6,7 +6,7 @@ It was chaotic scenery. Motorists stranded, people encircled by large pools of w
 
 > What a day to come to Marrakech.
 
-![The flood](./img/marrakech.jpg)
+![The flood](/img/marrakech.jpg)
 
 Our driver circled for about forty minutes, not knowing exactly where to leave us as traffic police tried their best to maintain order. When the rain and flood waters finally began to subdue, our driver left us off ten minutes outside the square. We said goodbye to our friends from Seville and Greece and headed off to find our raid. Huddled under a tiny umbrella we tried to locate our place but we could not find a hotel sign. Suddenly a large group of kids approached us asking if we needed help.
 
@@ -14,7 +14,7 @@ We told them no, only to be followed with their excited cries for a chance at be
 
 The man let us in. Inside was very beautiful with a small pool built in the center of the building.
 
-![The raid](./img/raid.jpg)
+![The raid](/img/raid.jpg)
 
 After leaving our things in our room, we went down for dinner. It was the typical; tangine of potato, vegetables, olives and chicken. We were tired but excited to spend the entire next day venturing out into Marakkech. We had no idea what was in store for us...
 
@@ -25,7 +25,7 @@ Seriously... Motorists are everywhere! Zooming and zinging past you as you walk 
 
 Here is where you must be careful as a lot of people will try to scam you! A guy with snakes insisted on taking our photos and then wanted to charge us about 40 euros for them. We politely refused and offered him a lower amount. 1 euro is around 10 morrocan dirham. So the performer wanted to charge us over 400 dirham. It is worth mentioning that salaries there are quite low so it is good to bear this in mind as people are desperately trying to meet expenses.
 
-![The snakes in the square](./img/marsquare.jpg)
+![The snakes in the square](/img/marsquare.jpg)
 
 > It's so important to be aware of the poverty there and if you are planning to go, mentally prepare yourself for the shocks you will most certainly experience.
 
@@ -47,28 +47,28 @@ If you are looking for a budget friendly hotel in the area for just a couple day
 
 So let's get right down to it!
 
-![The reflections](./img/reflections.jpg)
+![The reflections](/img/reflections.jpg)
 
 Chefchaouen which is located about an hour and a half from Tetuan is known famously as the blue city or blue pearl. Its beautiful blue buildings are painted in a mineral paint that is said to keep mosquitos away but curiously it was also known as a safe haven for Jews and Moors during the Spanish reconquest as the colour blue is said to depict "heaven" or "the sky".
 
 The views of the city are simply refreshing. On a sunny day the light reflects brilliantly off the white and blue houses and shops. There is a small river that flows through the valley where many people go to refresh themselves from the heat. And I should also mention that there are **fricken peacocks**!
 
-![The peacocks](./img/riverpeacocks.jpg)
+![The peacocks](/img/riverpeacocks.jpg)
 
 ## Top things to do in Chefchaouen
 
 1. **Kasbah Tower and Museum:** Learn about the history of the city and explore the building enjoying the scenic views.
-   ![The kasbah](./img/tower.jpg)
+   ![The kasbah](/img/tower.jpg)
 
 2. **Visit the shops and bazaars:** In one of the stores we were able to get moroccan oils which smell heavenly and really moisterize the skin. Many of these stores sell them.
-   ![The shops](./img/shops.jpg)
+   ![The shops](/img/shops.jpg)
 
 3. **Eat in one of the restaurants** in the main plaza which overlooks the city shops and hills.
 
-   ![The views](./img/views.jpg)
+   ![The views](/img/views.jpg)
 
 4. **Vist the flower pot wall.** I think most pictures of the city are taken here lol.
-   ![The flowerpots](./img/flowerpot.jpg)
+   ![The flowerpots](/img/flowerpot.jpg)
 
 Most importantly get lost in the peaceful magic that is Chefchaouen! I would definitely recommend it if you have the time. Furthermore, there are many more activities you can do like hiking, getting a moroccan massage or even visiting the National Park and Akchour waterfall, which unfortunately we did not have time to do.
 

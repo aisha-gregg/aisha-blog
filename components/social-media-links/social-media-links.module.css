@@ -13,13 +13,19 @@
 
 .contact a {
   padding: 0px 5px;
-  transition: 0.25s ease-in-out transform;
+  transition: 0.25s ease-in-out filter;
+  filter: grayscale(100%);
 }
+
 .contact a:hover {
-  transform: scale(1.4);
+  filter: grayscale(0%);
 }
 
 .contactbox {
   display: inline-flex;
   flex-direction: column-reverse;
+}
+
+.contact a::after {
+  content: none;
 }

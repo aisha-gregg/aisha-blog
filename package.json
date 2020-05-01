@@ -4,13 +4,12 @@
   "private": true,
   "homepage": "https://aisha-gregg.com",
   "scripts": {
-    "start": "next start",
-    "dev": "next dev",
+    "start": "next dev",
+    "preview": "next start",
     "start:storybook": "start-storybook -p 9009 -s public",
-    "build": "next build && npm run optimize",
+    "build": "next build",
     "build:storybook": "build-storybook -s public",
-    "test": "next test",
-    "optimize": "node scripts/optimize-images.js"
+    "test": "next test"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -33,10 +32,13 @@
     "@testing-library/user-event": "7.2.1",
     "classnames": "2.2.6",
     "disqus-react": "1.0.7",
+    "gray-matter": "4.0.2",
     "marked": "0.8.0",
     "next": "9.3.6",
     "react": "16.12.0",
-    "react-dom": "16.12.0"
+    "react-dom": "16.12.0",
+    "remark": "12.0.0",
+    "remark-html": "11.0.1"
   },
   "devDependencies": {
     "@storybook/addon-actions": "^5.3.17",
@@ -48,6 +50,8 @@
     "imagemin-dir": "1.0.0-alpha.1",
     "imagemin-gifsicle": "7.0.0",
     "imagemin-mozjpeg": "8.0.0",
-    "imagemin-optipng": "7.1.0"
+    "imagemin-optipng": "7.1.0",
+    "next-compose-plugins": "2.2.0",
+    "next-optimized-images": "2.6.0"
   }
 }

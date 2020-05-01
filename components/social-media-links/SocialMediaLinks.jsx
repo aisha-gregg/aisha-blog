@@ -10,7 +10,7 @@ export function SocialMediaLinks({ className }) {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="./img/fb-logo.png" alt="Facebook logo" />
+          <ion-icon name="logo-facebook"></ion-icon>
         </a>
 
         <a
@@ -18,7 +18,7 @@ export function SocialMediaLinks({ className }) {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="./img/insta-logo.jpg" alt="Instagram logo" />
+          <ion-icon name="logo-instagram"></ion-icon>
         </a>
 
         <a
@@ -26,7 +26,7 @@ export function SocialMediaLinks({ className }) {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="./img/twitter-logo.jpg" alt="Twitter logo" />
+          <ion-icon name="logo-twitter"></ion-icon>
         </a>
       </div>
     </div>

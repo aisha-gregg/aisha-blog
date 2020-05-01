@@ -9,7 +9,7 @@ export function Header() {
         <h2 className={styles.subheading}>—Wandering at heart's risk</h2>
       </div>
 
-      <img src="./img/profile1.png" alt="Me" className={styles.profile} />
+      <img src="/img/profile1.png" alt="Me" className={styles.profile} />
     </header>
   );
 }
