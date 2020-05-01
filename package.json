@@ -3,25 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://aisha-gregg.com",
-  "dependencies": {
-    "@testing-library/jest-dom": "4.2.4",
-    "@testing-library/react": "9.4.0",
-    "@testing-library/user-event": "7.2.1",
-    "classnames": "2.2.6",
-    "disqus-react": "1.0.7",
-    "marked": "0.8.0",
-    "react": "16.12.0",
-    "react-dom": "16.12.0",
-    "react-router-dom": "5.1.2",
-    "react-scripts": "3.3.0"
-  },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "next start",
+    "dev": "next dev",
     "start:storybook": "start-storybook -p 9009 -s public",
-    "build": "react-scripts build && npm run optimize",
+    "build": "next build && npm run optimize",
     "build:storybook": "build-storybook -s public",
-    "deploy": "gh-pages -d build",
-    "test": "react-scripts test",
+    "test": "next test",
     "optimize": "node scripts/optimize-images.js"
   },
   "eslintConfig": {
@@ -38,6 +26,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "4.2.4",
+    "@testing-library/react": "9.4.0",
+    "@testing-library/user-event": "7.2.1",
+    "classnames": "2.2.6",
+    "disqus-react": "1.0.7",
+    "marked": "0.8.0",
+    "next": "9.3.6",
+    "react": "16.12.0",
+    "react-dom": "16.12.0"
   },
   "devDependencies": {
     "@storybook/addon-actions": "^5.3.17",
