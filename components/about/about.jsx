@@ -23,9 +23,9 @@ export function About() {
               Trinidad and Tobago
             </a>
             . Now I live in Spain and travel frequently across Europe. For the
-            past couple years up until now, and after visiting over 30 cities,
-            my perspectives and visions of all that I have known continues to be
-            challenged. I want to somehow share my stories with the world.
+            past couple years up until now my perspectives and visions of all
+            that I have known continues to be challenged. I want to somehow
+            share my stories with the world.
           </p>
           <p className={styles.text}></p>
         </div>

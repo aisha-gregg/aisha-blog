@@ -61,8 +61,9 @@ export default function Home() {
             },
 
             {
-              text: "London Adventures (Coming soon)",
+              text: "London Adventures",
               image: "./img/london.jpg",
+              onClick: () => router.push("/posts/london"),
             },
           ]}
         ></ImageSection>
