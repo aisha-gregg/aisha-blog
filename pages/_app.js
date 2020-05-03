@@ -1,7 +1,7 @@
 import React from "react";
 import Router from "next/router";
 import "../styles/index.css";
-import { pageview } from "../features/googly-analytics";
+import { pageview } from "../features/google-analytics";
 
 Router.events.on("routeChangeComplete", (url) => pageview(url));
 

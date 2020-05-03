@@ -1,6 +1,6 @@
 import React from "react";
 import Document, { Html, Head, Main, NextScript } from "next/document";
-import { GA_TRACKING_ID } from "../features/googly-analytics";
+import { GA_TRACKING_ID } from "../features/google-analytics";
 
 export default class MyDocument extends Document {
   static async getInitialProps(ctx) {
