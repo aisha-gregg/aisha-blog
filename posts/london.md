@@ -20,7 +20,7 @@ Cross the street past the Victoria Memorial and stroll through the gardens in St
 
 **3.Trafalgar Square and National Gallery.**
 
-The square sits in front of the national gallery where you can enter for free and view some of the most famous pieces of brisitsh art over a collection of some 2,300 paintings.
+The square sits in front of the national gallery where you can enter for free and view some of the most famous pieces of british art over a collection of some 2,300 paintings.
 
 **4.The Shard.**
 
@@ -50,6 +50,6 @@ The last time I visited London in 2018 the Big Ben was being renovated and is sa
 Lastly, but certainly not least is the London Eye! It is the fourth largest observation wheel in the world! To get on the wheel there is a charge of between 37 to 40 pounds per adult aka it aint cheap.😅 On the wheel you spend 30 minutes in the air and have a spectacular view of the city. I heard that the sunsets are amazing up there as well. One day, I hope to experience that!
 ![londoneye](/img/londoneye.jpg)
 
-There is absolutely no way I could list all the monuments, palaces and things to see in London. It is a bubbling pot filled with leisure activities for all. Whether its shopping in Oxford or Carnaby street, taking a double-decker bus across to Picadilly Circus, exploring the food at Bourough Market, or hanging out at the trendy bars and shops in Canary wharf... The city has so much to offer!
+There is absolutely no way I could list all the monuments, palaces and things to see in London. It is a bubbling pot filled with leisure activities for all. Whether it's shopping in Oxford or Carnaby street, taking a double-decker bus across to Picadilly Circus, exploring the food at Bourough Market, or hanging out at the trendy bars and shops in Canary wharf... The city has so much to offer!
 
 So...What's your favorite part of London?
