@@ -9,7 +9,10 @@
     "start:storybook": "start-storybook -p 9009 -s public",
     "build": "next build",
     "build:storybook": "build-storybook -s public",
-    "test": "next test"
+    "deploy": "npm run build && next export",
+    "test": "jest",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -33,7 +36,6 @@
     "classnames": "2.2.6",
     "disqus-react": "1.0.7",
     "gray-matter": "4.0.2",
-    "marked": "0.8.0",
     "next": "9.3.6",
     "react": "16.12.0",
     "react-dom": "16.12.0",
@@ -41,17 +43,22 @@
     "remark-html": "11.0.1"
   },
   "devDependencies": {
-    "@storybook/addon-actions": "^5.3.17",
-    "@storybook/addon-links": "^5.3.17",
-    "@storybook/addons": "^5.3.17",
-    "@storybook/preset-create-react-app": "^2.1.1",
-    "@storybook/react": "^5.3.17",
-    "imagemin": "7.0.1",
-    "imagemin-dir": "1.0.0-alpha.1",
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "7.9.6",
+    "@babel/preset-react": "7.9.4",
+    "@storybook/addon-actions": "^5.3.18",
+    "@storybook/addon-links": "^5.3.18",
+    "@storybook/addons": "^5.3.18",
+    "@storybook/react": "^5.3.18",
+    "babel-jest": "25.5.1",
+    "babel-loader": "8.1.0",
     "imagemin-gifsicle": "7.0.0",
     "imagemin-mozjpeg": "8.0.0",
     "imagemin-optipng": "7.1.0",
+    "imagemin-svgo": "7.1.0",
+    "jest": "25.5.4",
     "next-compose-plugins": "2.2.0",
-    "next-optimized-images": "2.6.0"
+    "next-optimized-images": "2.6.0",
+    "react-test-renderer": "16.13.1"
   }
 }
