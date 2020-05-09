@@ -22,9 +22,9 @@ export default function Home() {
               onClick: () => router.push("/posts/Italy2"),
             },
             {
-              text: "Lisbon",
-              image: "./img/lisbon.jpg",
-              onClick: () => router.push("/posts/lisbon"),
+              text: "Kaixo Bilbao!",
+              image: "./img/bilbaocover.jpg",
+              onClick: () => router.push("/posts/bilbao"),
             },
 
             {
@@ -43,10 +43,9 @@ export default function Home() {
               onClick: () => router.push("/posts/life-abroad"),
             },
             {
-              title: "My Posts",
-              text: "Oh my, Marseille!",
-              image: "./img/cathedral.jpg",
-              onClick: () => router.push("/posts/marseille"),
+              text: "Lisbon",
+              image: "./img/lisbon.jpg",
+              onClick: () => router.push("/posts/lisbon"),
             },
             {
               text: "Surviving quarantine",
@@ -64,6 +63,12 @@ export default function Home() {
               text: "London Adventures",
               image: "./img/london.jpg",
               onClick: () => router.push("/posts/london"),
+            },
+            {
+              title: "My Posts",
+              text: "Oh my, Marseille!",
+              image: "./img/cathedral.jpg",
+              onClick: () => router.push("/posts/marseille"),
             },
           ]}
         ></ImageSection>
