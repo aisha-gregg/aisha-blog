@@ -33,9 +33,10 @@ export default function Home() {
               onClick: () => router.push("/posts/morocco1"),
             },
             {
-              text: "Morocco Part II",
-              image: "./img/morocco-main.jpg",
-              onClick: () => router.push("/posts/morocco2"),
+              title: "My Posts",
+              text: "The Gem of Granada",
+              image: "./img/granadapostphoto.jpg",
+              onClick: () => router.push("/posts/granada"),
             },
             {
               text: "Life abroad",
@@ -69,6 +70,11 @@ export default function Home() {
               text: "Oh my, Marseille!",
               image: "./img/cathedral.jpg",
               onClick: () => router.push("/posts/marseille"),
+            },
+            {
+              text: "Morocco Part II",
+              image: "./img/morocco-main.jpg",
+              onClick: () => router.push("/posts/morocco2"),
             },
           ]}
         ></ImageSection>
