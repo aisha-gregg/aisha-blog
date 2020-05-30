@@ -4,13 +4,16 @@
 }
 
 .post img {
-  min-width: 40px;
-  --factor: 1.4;
   width: 500px;
-  margin: 0 calc(-1 * var(--l) * var(--factor));
   padding: var(--m);
   border-radius: 50px;
   float: left;
+}
+
+@media (max-width: 768px) {
+  .post img {
+    width: 100%;
+  }
 }
 
 .post h1,
