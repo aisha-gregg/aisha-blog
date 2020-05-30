@@ -19,69 +19,69 @@ export default function Home() {
             {
               text: "Boungiorno Italy Part II",
               image: "./img/italy2.jpg",
-              onClick: () => router.push("/posts/Italy2"),
+              onClick: () => router.push("/posts/Italy2")
             },
             {
               text: "Lockdown series-Our stories",
-              image: "./img/italy2.jpg",
-              onClick: () => router.push("/posts/lockdown-series"),
+              image: "./img/sharedstories.jpg",
+              onClick: () => router.push("/posts/lockdown-series")
             },
 
             {
               text: "Kaixo Bilbao!",
               image: "./img/bilbaocover.jpg",
-              onClick: () => router.push("/posts/bilbao"),
+              onClick: () => router.push("/posts/bilbao")
             },
 
             {
               text: "Morocco Part I",
               image: "./img/morocco1.jpg",
-              onClick: () => router.push("/posts/morocco1"),
+              onClick: () => router.push("/posts/morocco1")
             },
             {
               title: "My Posts",
               text: "The Gem of Granada",
               image: "./img/granadapostphoto.jpg",
-              onClick: () => router.push("/posts/granada"),
+              onClick: () => router.push("/posts/granada")
             },
             {
               text: "Life abroad",
               image: "./img/lifeabroad.jpg",
-              onClick: () => router.push("/posts/life-abroad"),
+              onClick: () => router.push("/posts/life-abroad")
             },
             {
               text: "Lisbon",
               image: "./img/lisbon.jpg",
-              onClick: () => router.push("/posts/lisbon"),
+              onClick: () => router.push("/posts/lisbon")
             },
             {
               text: "Surviving quarantine",
               image: "./img/quarantine.jpg",
-              onClick: () => router.push("/posts/quarantine"),
+              onClick: () => router.push("/posts/quarantine")
             },
 
             {
               text: "Boungiorno Italy Part I",
               image: "./img/italy.png",
-              onClick: () => router.push("/posts/Italy1"),
+              onClick: () => router.push("/posts/Italy1")
             },
 
             {
               text: "London Adventures",
               image: "./img/london.jpg",
-              onClick: () => router.push("/posts/london"),
+              onClick: () => router.push("/posts/london")
             },
             {
               title: "My Posts",
               text: "Oh my, Marseille!",
               image: "./img/cathedral.jpg",
-              onClick: () => router.push("/posts/marseille"),
+              onClick: () => router.push("/posts/marseille")
             },
             {
               text: "Morocco Part II",
               image: "./img/morocco-main.jpg",
-              onClick: () => router.push("/posts/morocco2"),
-            },
+              onClick: () => router.push("/posts/morocco2")
+            }
           ]}
         ></ImageSection>
       </main>

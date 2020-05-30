@@ -7,15 +7,15 @@
 ![akgregg](/img/aishaprofileq.jpg)
 A.K Gregg | Writer, Programmer and Traveller | Instagram:[@kamii_90](https://www.instagram.com/kamii_90/)
 
-Time continues to creep forward. Two months ago I was trying to [survive quarantine](/posts/quarantine) in Spain. At that time, I would become easily bored, unmotivated and tired. I created a quarantine schedule in order to keep myself productive, exercise and make the extra effort to read more. It has worked fairly well. Regarding the city of Madrid, well it seemed almost ghost-like, occupied only by its looming shadows. The sound of a car passing along the road every now and then and the light footsteps to ‘the essential places' reminded me that the future was there waiting.
+Time continues to creep forward. Two months ago I was trying to [survive quarantine](/posts/quarantine) in Spain. At that time, I would become easily bored, unmotivated and tired. I created a quarantine schedule in order to keep myself productive, exercise and make the extra effort to read more. It has worked fairly well. Regarding the city of Madrid, well, it seemed almost ghost-like, occupied only by its looming shadows. The sound of a car passing along the road every now and then and the light footsteps to ‘the essential places' reminded me that the future was there, waiting.
 
 Fast forward to _The Now._
 
 Frustration has led to protest in the streets, as some of Spain’s citizens felt like the government was not doing enough. Some of them, overwhelmed parents struggling with balancing their children’s school routine and their work life. I did feel a bit anxious or sad about it but I stayed in, protected by my four walls. Learning to pass the time by continuously learning.
 
-But yes... things are now slowly improving. Just this week Madrid entered phase 1 of the de-escalation plan that the government has laid out for us. With this comes visiting friends and family ( in groups no bigger than 10) and eating out on the restaurant terraces. Eating in is still not allowed.
+But yes... things are now slowly improving. Just this week Madrid entered phase 1 of the de-escalation plan that the government has laid out for us. With this comes visiting friends and family (in groups no bigger than 10) and eating out on the restaurant terraces. Eating in is still not allowed.
 
-For me, It is strange yet amazing to see how things are continuously transforming and to see the social side of people again. To be able to go outside and just appreciate everything. Everyone has been out lately, taking in as much sunlight as they could. Neighbours greeting each other, children playing, people celebrating as it would seem. Cases seem to be dropping, protests dwindling.
+For me, It is strange, yet amazing to see how things are continuously transforming and to see the social side of people again. To be able to go outside and just appreciate everything. Everyone has been out lately, taking in as much sunlight as they could. Neighbours greeting each other, children playing, people celebrating as it would seem. Cases seem to be dropping, protests dwindling.
 
 And although, many have lost something during this time, I hope to encourage everyone to look forward to a better tomorrow.
 
@@ -47,7 +47,7 @@ That last one, the whole world is going to have to take that approach when this 
 Katie | Travel Blogger |Instagram: [@katiesaway](https://www.instagram.com/katiesaway/)
 Website: www.katiesaway.com/content-links
 
-We are very lucky in Australia to have not been hit too hard with the virus over the last few months. Although we have still been in quite a strict lockdown since the end of March. Everything changed really quickly for us in the start - one minute we were all living our lives, and the next we were only allowed out of the house to exercise or shop for necessities.
+We are very lucky in Australia to have not been hit too hard with the virus over the last few months. Although we have still been in quite a strict lockdown since the end of March. Everything changed really quickly for us in the start, one minute we were all living our lives, and the next we were only allowed out of the house to exercise or shop for necessities.
 
 For most of April and May we were only allowed to meet one other person outside, and it had to be for exercise, and no one from outside the household was allowed into the house. Most people are still working from home and all restaurants and cafes have been closed except for takeaway. There have been border restrictions so we are unable to leave Australia, and unable to leave our own state.
 At the moment they have started easing restrictions, with 10 people allowed to sit in restaurants at a time, 5 people to visit a household, and we are allowed to meet 10 people for a picnic. From June 1 these are being loosened again so 50 people can go out to eat at a time and we are allowed to travel within our state.
@@ -56,7 +56,7 @@ It has been a really strange time here. Around my area of Sydney, everyone has b
 
 For me it has been really hard! My boyfriend lives in Sweden and was meant to be visiting Australia in April to meet my friends and family. Travel restrictions mean we are unable to be together for who knows how long, and it has been really tough on both of us.
 
-**MAKING THE BEST OF IT.** 📍 Texas, US 🇺🇸
+**MAKING THE BEST OF IT.** 📍 Texas, USA 🇺🇸
 
 ![caiteescappee](/img/caitescapeephoto.png)
 Caitlin| Travel Blogger |Instagram: [@thecaitescapee](https://www.instagram.com/thecaitescapee/)
@@ -70,7 +70,7 @@ I’d like to say everyone here is taking the situation seriously but due to the
 
 The times aren’t ideal but people are making the best out of what they have!
 
-**THE NEW NORMAL** 📍TT 🇹🇹
+**THE NEW NORMAL** 📍Tunapuna, TT 🇹🇹
 
 ![rachelpic](/img/rachelprofilepic.jpg)
 Rachel Ramdhan| Trini Blogger | Instagram: [@rachel_ramdhan](https://www.instagram.com/rachel_ramdhan)
