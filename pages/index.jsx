@@ -22,6 +22,12 @@ export default function Home() {
               onClick: () => router.push("/posts/Italy2"),
             },
             {
+              text: "Lockdown series-Our stories",
+              image: "./img/italy2.jpg",
+              onClick: () => router.push("/posts/lockdown-series"),
+            },
+
+            {
               text: "Kaixo Bilbao!",
               image: "./img/bilbaocover.jpg",
               onClick: () => router.push("/posts/bilbao"),
