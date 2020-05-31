@@ -33,8 +33,8 @@ Forced to stay indoors, working from home, if you must go out it’s at two mete
 At first, I was elated for all the free time!
 Started with planning what I’d be doing and pinpointing when they’d be completed, then suddenly I started to feel the pressure of possibly having too much time on my hands, which then turned into days of doing absolutely nothing but consuming all the negativity in the news.
 
-Miss Rona had my mental health out of whack and I needed a mindset reset but how was I meant to do that when the simple pleasures of going about my business freely and meeting up with friends had been ripped away?
-Something had to change and it needed to be me, so I found ways to get and sustain motivation in my home turned gym, work and after work chill out spot. Granted it's a weird world at the moment for everyone, unlearning old habits and adopting new ones to survive, hard but necessary to keep spirits up.
+Miss Rona had my mental health out of whack and I needed a mindset reset. But how was I meant to do that when the simple pleasures of going about my business freely and meeting up with friends had been ripped away?
+Something had to change and it needed to be me, so I found ways to get and sustain motivation in my home turned gym, work and after work chill out spot. Granted it's a weird world at the moment for everyone, unlearning old habits and adopting new ones to survive - hard, but necessary to keep spirits up.
 
 Recently, we’ve entered some sort of phase where it's permitted to travel 50 miles to wherever we want whenever we want for exercise or no exercise; can meet friends in open spaces and even the luxury of catering places being reopened for delivery or drive through only.
 
@@ -78,10 +78,10 @@ Website: https://rachelramdhan.wordpress.com/
 
 I love being home – but this is different. I took for granted the simple things: the commute to work, the almost daily 3 p.m. phone calls to bring a bread home, the Sunday evening strolls with my sister to get ice cream by the corner. Honestly, I was dreaming of how amazing 2020 was going to be.
 
-But COVID-19 shattered not only my mundane routine and aspirations, but it rained havoc on every other aspect of my life. I watched as the world still but time still moved on.
+But COVID-19 shattered not only my mundane routine and aspirations, but it rained havoc on every other aspect of my life. I watched as the world stood still but time moved on.
 
 I cycled through a myriad of emotions for the past two months. I was lucky enough to be working at home but with my mother no longer being able to work - I began to feel the weight of the pandemic.
-It did not stop there. See…my family lives with a never ending ‘what if’. Each time my aunt leaves to go to work in the hospital the question pops up like a jack in a box.What if an asymptomatic patient who came in today?
+It did not stop there. See...my family lives with a never ending ‘what if’. Each time my aunt leaves to go to work in the hospital the question pops up like a jack in a box. What if an asymptomatic patient came in today?
 
 What if the numbers rise and my aunt is mandated to deal with COVID-19 patients?
 
