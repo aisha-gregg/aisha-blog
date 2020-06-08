@@ -28,7 +28,7 @@ export default function Home() {
             },
             {
               text: "Lockdown series-Our stories",
-              image: "./img/italy2.jpg",
+              image: "./img/sharedstories.jpg",
               onClick: () => router.push("/posts/lockdown-series"),
             },
 
