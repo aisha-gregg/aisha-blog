@@ -17,9 +17,14 @@ export default function Home() {
           title="My Posts"
           images={[
             {
+              text: "Love letter to Madrid",
+              image: "./img/italy2.jpg",
+              onClick: () => router.push("/posts/madrid"),
+            },
+            {
               text: "Boungiorno Italy Part II",
               image: "./img/italy2.jpg",
-              onClick: () => router.push("/posts/Italy2"),
+              onClick: () => router.push("/posts/italy2"),
             },
             {
               text: "Lockdown series-Our stories",
@@ -63,7 +68,7 @@ export default function Home() {
             {
               text: "Boungiorno Italy Part I",
               image: "./img/italy.png",
-              onClick: () => router.push("/posts/Italy1"),
+              onClick: () => router.push("/posts/italy1"),
             },
 
             {
