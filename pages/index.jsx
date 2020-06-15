@@ -18,7 +18,7 @@ export default function Home() {
           images={[
             {
               text: "Love letter to Madrid",
-              image: "./img/italy2.jpg",
+              image: "./img/madridpost.jpg",
               onClick: () => router.push("/posts/madrid"),
             },
             {

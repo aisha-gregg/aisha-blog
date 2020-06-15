@@ -13,8 +13,8 @@ export function About() {
         <div>
           <h2 className={styles.about}>About me</h2>
           <p className={styles.text}>
-            Hi. I am Aisha Kamilah; travel enthusiast and blogger. I am from the
-            beautiful twin isles of{" "}
+            Hi. I am Aisha K. Gregg; travel enthusiast and blogger. I am from
+            the beautiful twin isles of{" "}
             <a
               href="https://www.google.com/maps?q=trinidad+and+tobago&rlz=1C1GCEA_enES871ES871&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj7tNvOioTpAhUPlhQKHUxpC8YQ_AUoAXoECBkQAw"
               rel="noopener noreferrer"
