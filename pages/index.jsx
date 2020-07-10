@@ -27,6 +27,11 @@ export default function Home() {
               onClick: () => router.push("/posts/seville"),
             },
             {
+              text: "Amsterdam Awakening",
+              image: "./img/bridge-in-amsterdam.jpg",
+              onClick: () => router.push("/posts/amsterdam"),
+            },
+            {
               text: "Boungiorno Italy Part II",
               image: "./img/italy2.jpg",
               onClick: () => router.push("/posts/italy2"),
