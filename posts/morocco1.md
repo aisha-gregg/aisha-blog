@@ -1,4 +1,4 @@
-## Morocco (Fez and Merzouga)
+## Morocco (Fez and Merzouga) - Posted on the 18th of January, 2020
 
 One of the most valuable things in life is to be able to go where your heart leads, in order to discover something new and life changing. In May, I discovered the country of Morocco in all of its splendor, poverty and culture. I travelled from Madrid to Fez on Tuesday the 30th of April. It was a beautiful warm evening. I remember landing and my first thought was **"Wow, I'm in Africa!"** The sun caressed my skin as I walked contently off the plane and towards security.
 

@@ -1,4 +1,4 @@
-## Life Abroad
+## Life Abroad - Posted on the 9th of May, 2020
 
 Sometimes it is so interesting the differences you see from country to country, especially when you have to live it daily. The day I left the Caribbean sometimes repeats in my mind and I remember the anxiety and fear I faced. I wondered if I was making the right decision because it definitely takes balls to leave it all behind.
 

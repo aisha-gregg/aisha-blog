@@ -1,4 +1,4 @@
-## Bilbao
+## Bilbao - Posted on the 9th of May, 2020
 
 This post is a flashback to a couple months ago before the end of the world... to when an unexpected trip was being taken. A trip to the basque country, the city of Bilbao.
 Now, this was going to be my first time in the north of Spain —except for my visit to Barcelona which is located on the north eastern mediterranean coast— so I had no idea what to expect. I heard of the north of Spain being lush with greenery, hills that encapsulated little towns and cities, shorelines that almost touched the grass and a wet moist atmosphere prone to many rainy days. I was a little bit concerned of the weather, it being January and all but I had the opportunity to go to Bilbao for a coding event that was being held there and was very much interested as it is a field of mine.
@@ -28,7 +28,7 @@ If you would love to catch a spectacular panoramic view of the city, you can tak
 
 **5. Visit the Guggenheim Museum.**
 ![guggenheim](/img/guggenheim.jpg)
-The museum was finished in 1997 and built by architect Frank Gehry. It houses a lot of modern and unique artwork which depicts futurism, surrealism and European abstraction. The artwork in my opinion was a bit strange but to each their own. They also have a lot of impressionist and post-impressionist work (Van Gogh, Pablo Picasso) which I believed I enjoyed more. Outside the building though, there is enough to marvel at. The structure itself is an enormous abstraction of titanium and limestone which archs and folds skyward. There is a statue of a spider and her babies called **'Mother'** outside the museum, which... well...  is _interesting._ And there is the Bilbao puppy which stands more than 40 feet tall behind the museum entrance (or is it the front?). It is composed of around 40,000 flowers which are changed seasonally. It is like a hugh colourful chia pet! (Chia pets... yep, I'm _that_ old 😆)
+The museum was finished in 1997 and built by architect Frank Gehry. It houses a lot of modern and unique artwork which depicts futurism, surrealism and European abstraction. The artwork in my opinion was a bit strange but to each their own. They also have a lot of impressionist and post-impressionist work (Van Gogh, Pablo Picasso) which I believed I enjoyed more. Outside the building though, there is enough to marvel at. The structure itself is an enormous abstraction of titanium and limestone which archs and folds skyward. There is a statue of a spider and her babies called **'Mother'** outside the museum, which... well... is _interesting._ And there is the Bilbao puppy which stands more than 40 feet tall behind the museum entrance (or is it the front?). It is composed of around 40,000 flowers which are changed seasonally. It is like a hugh colourful chia pet! (Chia pets... yep, I'm _that_ old 😆)
 
 **6. Zubizuri Bridge**
 

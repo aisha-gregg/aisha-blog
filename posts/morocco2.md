@@ -1,4 +1,4 @@
-## Morocco (Marrakech and Chefchaouen)
+## Morocco (Marrakech and Chefchaouen) - Posted on the 14th of March, 2020
 
 Marrakech is unlike an other city that I have seen or visited. Its large redish pink walls rise around the city somehow protecting it from
 the outside world. We arrived on a wet day with heavy rains that flooded our entrance to the main square. Yes, what a day to come to Marrakech.

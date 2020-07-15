@@ -1,4 +1,4 @@
-## Dear Madrid
+## Dear Madrid - Posted on the 15th of June, 2020
 
 To the city that welcomed me,
 

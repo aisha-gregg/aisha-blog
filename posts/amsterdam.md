@@ -1,4 +1,4 @@
-## Amsterdam Awakening
+## Amsterdam Awakening - Posted on the 11th of July 2020
 
 You may have heard before that travelling awakens you in such a way that you would have never realized before doing so. The perspectives that you gain and the things that you see can certainly leave a life long impression and definitely affect the way you think about your own life... your own decisions.
 

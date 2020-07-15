@@ -1,4 +1,4 @@
-## Oh my, Marseille!
+## Oh my, Marseille! - Posted on the 28th of March, 2020
 
 On August 3rd of last summer, I saw the blue seas of the southern french coast for the first time in my life. In French, it is famously known as cote d'azur (the french riviera). They were a radiant blue that went on for miles even caressing popular cities such as Cannes (which we visited for a day), Saint-Tropez, Nice and Montpellier.
 

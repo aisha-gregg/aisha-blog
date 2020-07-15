@@ -1,4 +1,4 @@
-## Surviving Quarantine
+## Surviving Quarantine - Posted on the 4th of April, 2020
 
 It's 8pm. The 3rd of April. Year 2020.
 

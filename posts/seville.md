@@ -1,4 +1,4 @@
-## Seville
+## Seville - Posted on the 27th of June, 2020
 
 There is a magic that belongs to Seville, Spain. It is a cute southern city in Andalusia that is very popular among tourists, students and even nationals.
 It is a five hour drive from the capital of Spain and it is located very close to the Andalusian city of Córdoba. In Seville, you can encounter a lot of moor influence, especially in the kind of food you will come across. The food is incredibly delicious featuring plates from various countries: Africa, Greece and even Turkey.

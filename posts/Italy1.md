@@ -1,4 +1,4 @@
-## Bourgiono Italy (Milan and Lago di Como)
+## Bourgiono Italy (Milan and Lago di Como) - Posted on the 25th of April, 2020
 
 Gorgeous Italy. The country I have most frequented within the walls of Europe. Its breathtaking cities stretch from the southern capital of Rome, to Florence, Pisa and up north to Milan. And this is exactly where we travelled to in May of 2019. - A very unexpected trip actually.
 
