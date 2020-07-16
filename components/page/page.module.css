@@ -18,12 +18,3 @@
   min-height: 100vh;
   position: relative;
 }
-
-.backarrow {
-  display: flex;
-  flex-direction: row;
-}
-.forwardarrow {
-  display: flex;
-  flex-direction: row-reverse;
-}

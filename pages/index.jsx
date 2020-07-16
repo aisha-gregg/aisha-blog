@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import styles from "./home.module.css";
 import { ImageSection } from "../components/image-section/ImageSection";
 import { useRouter } from "next/router";
@@ -6,6 +6,27 @@ import { About } from "../components/about/about";
 import { Page } from "../components/page/Page";
 
 export default function Home() {
+  const postsPerPage = 6;
+  let arrayForHoldingPosts = [];
+
+  const [postsToShow, setPostsToShow] = useState([]);
+  const [next, setNext] = useState(6);
+
+  const loopWithSlice = (start, end) => {
+    const slicedPosts = images.slice(start, end);
+    arrayForHoldingPosts = [...arrayForHoldingPosts, ...slicedPosts];
+    setPostsToShow(arrayForHoldingPosts);
+  };
+
+  useEffect(() => {
+    loopWithSlice(0, postsPerPage);
+  }, []);
+
+  const handleShowMorePosts = () => {
+    loopWithSlice(next, next + postsPerPage);
+    setNext(next + postsPerPage);
+  };
+
   const images = [
     {
       text: "Love letter to Madrid",
@@ -101,10 +122,8 @@ export default function Home() {
         <div classname={styles["right-arrow"]}>
           <image src="./arrow_forward.svg" />{" "}
         </div>
-        <ImageSection
-          title="My Posts"
-          images={images.slice(0, 6)}
-        ></ImageSection>
+        <ImageSection title="My Posts" images={postsToShow}></ImageSection>
+        <button onClick={handleShowMorePosts}>Load more</button>
       </main>
     </Page>
   );
