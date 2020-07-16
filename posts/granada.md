@@ -1,3 +1,8 @@
+---
+title: "Hola"
+date: 2020
+---
+
 ## Granada - Posted on the 24th of May, 2020
 
 When they mention the snowy mountains of the Sierra Nevada, the amazing tapas, the gorgeous weather and the beautiful Alhambra… you know that they are talking about one of the most picturesque cities in Spain: Granada.
