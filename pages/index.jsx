@@ -123,7 +123,11 @@ export default function Home() {
           <image src="./arrow_forward.svg" />{" "}
         </div>
         <ImageSection title="My Posts" images={postsToShow}></ImageSection>
-        <button onClick={handleShowMorePosts}>Load more</button>
+        <div className={styles.wrapper}>
+          <button className={styles.loader} onClick={handleShowMorePosts}>
+            Load more
+          </button>
+        </div>
       </main>
     </Page>
   );
