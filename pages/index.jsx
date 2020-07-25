@@ -7,27 +7,11 @@ import { Page } from "../components/page/Page";
 
 export default function Home() {
   const postsPerPage = 6;
-  let arrayForHoldingPosts = [];
 
   const [postsToShow, setPostsToShow] = useState([]);
-  const [next, setNext] = useState(6);
+  const [currentPage, setCurrentPage] = useState(0);
 
-  const loopWithSlice = (start, end) => {
-    const slicedPosts = images.slice(start, end);
-    arrayForHoldingPosts = [...arrayForHoldingPosts, ...slicedPosts];
-    setPostsToShow(arrayForHoldingPosts);
-  };
-
-  useEffect(() => {
-    loopWithSlice(0, postsPerPage);
-  }, []);
-
-  const handleShowMorePosts = () => {
-    loopWithSlice(next, next + postsPerPage);
-    setNext(next + postsPerPage);
-  };
-
-  const images = [
+  const posts = [
     {
       text: "Cultural differences in Spain",
       image: "./img/cultureshock.jpg",
@@ -58,7 +42,6 @@ export default function Home() {
       image: "./img/sharedstories.jpg",
       onClick: () => router.push("/posts/lockdown-series"),
     },
-
     {
       text: "Kaixo Bilbao!",
       image: "./img/bilbaocover.jpg",
@@ -91,13 +74,11 @@ export default function Home() {
       image: "./img/quarantine.jpg",
       onClick: () => router.push("/posts/quarantine"),
     },
-
     {
       text: "Boungiorno Italy Part I",
       image: "./img/italy.png",
       onClick: () => router.push("/posts/italy1"),
     },
-
     {
       text: "London Adventures",
       image: "./img/london.jpg",
@@ -115,6 +96,18 @@ export default function Home() {
       onClick: () => router.push("/posts/morocco2"),
     },
   ];
+
+  const showPosts = (startPage, endPage) => {
+    let postsShowing = [];
+    const slicedPosts = posts.slice(startPage, endPage);
+    postsShowing = [...postsShowing, ...slicedPosts];
+    setPostsToShow(postsShowing);
+  };
+
+  useEffect(() => {
+    showPosts(currentPage, currentPage + postsPerPage);
+  }, [currentPage, postsPerPage]);
+
   const router = useRouter();
   return (
     <Page>
@@ -128,7 +121,9 @@ export default function Home() {
           <image src="./arrow_forward.svg" />{" "}
         </div>
         <ImageSection title="My Posts" images={postsToShow}></ImageSection>
-        <button onClick={handleShowMorePosts}>Load more</button>
+        <button onClick={() => setCurrentPage(currentPage + postsPerPage)}>
+          Load more
+        </button>
       </main>
     </Page>
   );
