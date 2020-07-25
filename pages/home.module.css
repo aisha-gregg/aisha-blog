@@ -7,16 +7,6 @@
   padding-bottom: 0;
 }
 
-.left-arrow {
-  display: flex;
-  flex-direction: row;
-}
-
-.right-arrow {
-  display: flex;
-  flex-direction: row-reverse;
-}
-
 .first-letter {
   font-size: 100px;
   line-height: 70px;
@@ -39,4 +29,19 @@
 
 .posts > *:not(:last-child) {
   margin-right: 20px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+.loader {
+  margin-top: 25px;
+  background-color: palevioletred;
+  border-radius: 9999px;
+  border: none;
+  padding: 15px 30px;
+  color: papayawhip;
+  font-family: var(--primary-header-font);
+  font-weight: bold;
 }
