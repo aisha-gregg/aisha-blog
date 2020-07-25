@@ -7,9 +7,10 @@ import { Page } from "../components/page/Page";
 
 export default function Home() {
   const postsPerPage = 6;
+  const initialPage = 1;
 
   const [postsToShow, setPostsToShow] = useState([]);
-  const [currentPage, setCurrentPage] = useState(0);
+  const [currentPage, setCurrentPage] = useState(initialPage);
 
   const posts = [
     {
@@ -97,16 +98,22 @@ export default function Home() {
     },
   ];
 
-  const showPosts = (startPage, endPage) => {
-    let postsShowing = [];
-    const slicedPosts = posts.slice(startPage, endPage);
-    postsShowing = [...postsShowing, ...slicedPosts];
-    setPostsToShow(postsShowing);
-  };
-
   useEffect(() => {
-    showPosts(currentPage, currentPage + postsPerPage);
-  }, [currentPage, postsPerPage]);
+    const indexBasedPage = currentPage - 1;
+    setPostsToShow(
+      posts.slice(indexBasedPage * postsPerPage, currentPage * postsPerPage)
+    );
+  }, [currentPage]);
+
+  function setNextPage() {
+    const lastPage = Math.ceil(posts.length / postsPerPage);
+    if (currentPage === lastPage) {
+      setCurrentPage(initialPage);
+      return;
+    }
+
+    setCurrentPage(currentPage + 1);
+  }
 
   const router = useRouter();
   return (
@@ -121,9 +128,7 @@ export default function Home() {
           <image src="./arrow_forward.svg" />{" "}
         </div>
         <ImageSection title="My Posts" images={postsToShow}></ImageSection>
-        <button onClick={() => setCurrentPage(currentPage + postsPerPage)}>
-          Load more
-        </button>
+        <button onClick={setNextPage}>Load more</button>
       </main>
     </Page>
   );
