@@ -29,6 +29,11 @@ export default function Home() {
 
   const images = [
     {
+      text: "Cultural differences in Spain",
+      image: "./img/cultureshock.jpg",
+      onClick: () => router.push("/posts/cultureshock"),
+    },
+    {
       text: "Love letter to Madrid",
       image: "./img/madridpost.jpg",
       onClick: () => router.push("/posts/madrid"),
