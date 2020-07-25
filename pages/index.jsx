@@ -16,7 +16,7 @@ export default function Home() {
     {
       text: "Cultural differences in Spain",
       image: "./img/cultureshock.jpg",
-      onClick: () => router.push("/posts/cultureshock"),
+      onClick: () => router.push("/posts/culture-shock"),
     },
     {
       text: "Love letter to Madrid",
