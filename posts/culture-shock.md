@@ -19,7 +19,7 @@ Last one, and maybe it is me. But everyone here has tattoes 😆. Even in banks,
 
 📍 From Bordeaux France to Madrid, Spain
 
-![mayowapic](/img/mayowapic.jpg)
+![mayowapic](/img/mayowapic.jpeg)
 Mayowa Kehinde-Sanni | Blogger | Instagram: [@mayamayowa](https://www.instagram.com/mayamayowa/)
 Website: https://mayamayowa.com/
 

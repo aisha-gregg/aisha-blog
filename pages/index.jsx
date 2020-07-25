@@ -130,7 +130,7 @@ export default function Home() {
         <ImageSection title="My Posts" images={postsToShow}></ImageSection>
         <div className={styles.wrapper}>
           <button className={styles.loader} onClick={setNextPage}>
-            Load more
+            More posts
           </button>
         </div>
       </main>
