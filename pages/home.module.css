@@ -36,7 +36,7 @@
   justify-content: center;
 }
 .loader {
-  border: 1px solid white;
+  outline: 1px solid white;
   margin-top: 25px;
   background-color: palevioletred;
   border-radius: 9999px;
