@@ -36,7 +36,6 @@
   justify-content: center;
 }
 .loader {
-  outline-color: white;
   margin-top: 25px;
   background-color: palevioletred;
   border-radius: 9999px;
@@ -45,4 +44,7 @@
   color: papayawhip;
   font-family: var(--primary-header-font);
   font-weight: bold;
+}
+.loader::after {
+  outline-color: white;
 }
