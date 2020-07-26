@@ -7,7 +7,7 @@ export function Footer() {
     <footer className={styles.footer}>
       <div className={styles.links}>
         <h5 className={"alternate-title" + " " + styles.title}>
-          Last Updated: April 2020 Follow me!
+          Last Updated: July 2020 Follow me!
         </h5>
       </div>
       <SocialMediaLinks></SocialMediaLinks>

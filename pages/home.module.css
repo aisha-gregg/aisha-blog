@@ -34,6 +34,7 @@
 .wrapper {
   display: flex;
   justify-content: center;
+  color: white;
 }
 .loader {
   margin-top: 25px;
