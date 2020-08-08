@@ -14,6 +14,11 @@ export default function Home() {
 
   const posts = [
     {
+      text: "Beach hopping in Gran Canaria",
+      image: "./img/grancanariaspic.jpg",
+      onClick: () => router.push("/posts/gran-canaria"),
+    },
+    {
       text: "Cultural differences in Spain",
       image: "./img/cultureshock.jpg",
       onClick: () => router.push("/posts/culture-shock"),
@@ -121,12 +126,7 @@ export default function Home() {
       <main className={styles["wrapper-content"]}>
         <section className={styles.introduction}></section>
         <About></About>
-        <div classname={styles["left-arrow"]}>
-          <image src="./arrow_back.svg" />{" "}
-        </div>
-        <div classname={styles["right-arrow"]}>
-          <image src="./arrow_forward.svg" />{" "}
-        </div>
+
         <ImageSection title="My Posts" images={postsToShow}></ImageSection>
         <div className={styles.wrapper}>
           <button className={styles.loader} onClick={setNextPage}>
