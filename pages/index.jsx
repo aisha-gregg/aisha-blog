@@ -14,6 +14,11 @@ export default function Home() {
 
   const posts = [
     {
+      text: "Perfect Spanish day trips",
+      image: "./img/aranjuez.jpg",
+      onClick: () => router.push("/posts/perfect-day-trip-locations"),
+    },
+    {
       text: "Beach hopping in Gran Canaria",
       image: "./img/grancanariaspic.jpg",
       onClick: () => router.push("/posts/gran-canaria"),
