@@ -14,7 +14,7 @@ Let's dive right in to find out.
 
 1. **San Vito Cathedral**
 
-In visiting the largest temple in Prague you will come to find that it is is adorned with its gothic like finishes and is a main site for visitors. It actually has a very interesting history as its construction had to be terminated due to the Bohemian wars, which occurred during the 14th century. The cathedral survived and is now a historical emblem documenting history. Tourists can access the cathedral along with a circuit ticket which allows you to visit other castles and or temples. The cost is around 10 euros. It is one of the original features of this unique city but moving onwards into the new town we can come acroos sppledid architectural works of art.
+In visiting the largest temple in Prague you will come to find that it is is adorned with its gothic like finishes and is a main site for visitors. It actually has a very interesting history as its construction had to be terminated due to the Bohemian wars, which occurred during the 14th century. The cathedral survived and is now a historical emblem documenting history. Tourists can access the cathedral along with a circuit ticket which allows you to visit other castles and or temples. The cost is around 10 euros. It is one of the original features of this unique city but moving onwards into the new town we can come across splendid architectural works of art.
 
 2. **Dancing House**
 
@@ -46,7 +46,7 @@ Now besides these monuments and must-sees there are some surprising facts about 
 
 2. The beer in Prague is pretty great although I am not too much of a beer person myself. But the beer brewed in Prague is world famous, very affordable and deserves a taste if you are a beer lover.
 
-3. Prague is an extremely romantic city so, beware, you probably do not want to solo travel there and be surrounded by couples every where you turn. I had not known this before I went on my solo trip in 2019 and felt a bit of the odd one out.
+3. Prague is an extremely romantic city so, beware, you probably do not want to solo travel there and be surrounded by couples every where you turn. I had not known this before I went on my solo trip in 2019 and felt a bit out of sorts.
 
 But you know what, I still enjoyed the city regardless with my lonesome self! 😆
 
