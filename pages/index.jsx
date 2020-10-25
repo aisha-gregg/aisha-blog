@@ -14,6 +14,11 @@ export default function Home() {
 
   const posts = [
     {
+      text: "Perfect Prague",
+      image: "./img/prague.jpg",
+      onClick: () => router.push("/posts/prague"),
+    },
+    {
       text: "Perfect Spanish day trips",
       image: "./img/aranjuez.jpg",
       onClick: () => router.push("/posts/perfect-day-trip-locations"),
