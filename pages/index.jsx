@@ -14,7 +14,7 @@ export default function Home() {
 
   const posts = [
     {
-      text: "New world perspectives",
+      text: "New World Perspectives",
       image: "./img/perspectives.jpg",
       onClick: () => router.push("/posts/perspectives"),
     },

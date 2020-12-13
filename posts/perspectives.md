@@ -2,7 +2,7 @@ Aisha Gregg,
 Trinidad and Tobago,
 Insta: akadventures_90
 Website: https:// aisha-gregg.com
-
+![profilepic](/img/aishaprofileq.jpg)
 **Walking in their shoes**
 
  I have always had so much curiosity dwelling inside me... so much pent up curiosity that I thought I would explode if I did not leave. I felt that I needed to learn about the world and had very much stereotyped different cultures and peoples based on my own upbringing and perspectives. And let’s not forget about what the media portrayed. Going abroad really opened a pleasant worldly vision for me. Back home, my country was known as being ‘diverse’ with a very significant Chinese, Indian and African mixed society. It actually seems slightly humourous now thinking about it. The truth is, I had never known true diversity without first living in a large European city. 
@@ -15,7 +15,7 @@ N. Forbes Matheis,
 Jamaica
 Website: https://nforbesmatheis.wixsite.com/mysite
 Youtube: https://www.youtube.com/c/NATForIslandLiving
-
+![PROFILEPIC](/img/natasha.jpg)
 
 **South Africa won my Heart**
 
@@ -28,7 +28,7 @@ Aneakaleigh Neils, 27,
 Trinidad and Tobago
 Insta: astridoxford
 Website: https://thecaribbeanmillennial.blog/ 
-
+![profilepic](/img/aneaka.jpg)
 
 
 For as long as I can remember, I've loved languages and it's probably because I wanted to feel more connected to the world around me through stories. Growing up in a multicultural environment already helped plant the seed in my mind that many possibilities exist when it comes to leading a successful and fulfilling life - being able to travel and live abroad just deepened that understanding.
@@ -43,7 +43,7 @@ Kat
 Dallas, Texas
 Insta: : international_kitty
 Website: internationalkitty.com
-
+![profilepic](/img/kat.jpg)
 
 I went to an all-girls private school where I graduated with honors. I attended college and then went off to grad school. I moved to a big city and worked at a company that was the leader in my industry. By 30, I thought I knew a few things about life. Then I moved to New York City…
 
