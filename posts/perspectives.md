@@ -1,20 +1,21 @@
-Aisha Gregg,
-Trinidad and Tobago,
-Insta: akadventures_90
-Website: https:// aisha-gregg.com
-![profilepic](/img/aishaprofileq.jpg)
-**Walking in their shoes**
+## Walking in their shoes
 
- I have always had so much curiosity dwelling inside me... so much pent up curiosity that I thought I would explode if I did not leave. I felt that I needed to learn about the world and had very much stereotyped different cultures and peoples based on my own upbringing and perspectives. And let’s not forget about what the media portrayed. Going abroad really opened a pleasant worldly vision for me. Back home, my country was known as being ‘diverse’ with a very significant Chinese, Indian and African mixed society. It actually seems slightly humourous now thinking about it. The truth is, I had never known true diversity without first living in a large European city. 
+**Aisha Gregg,**<br/>
+Trinidad and Tobago,<br/>
+Insta: akadventures_90<br/>
+Website: https://aisha-gregg.com<br/>
+![profilepic](/img/aishaprofileq.jpg)
+
+I have always had so much curiosity dwelling inside me... So much pent up curiosity that I thought I would explode if I did not leave. I felt that I needed to learn about the world and had very much stereotyped different cultures and peoples based on my own upbringing and perspectives. And let’s not forget about what the media portrayed. Going abroad really opened a pleasant worldly vision for me. Back home, my country was known as being ‘diverse’ with a very significant Chinese, Indian and African mixed society. It actually seems slightly humourous now thinking about it. The truth is, I had never known true diversity without first living in a large European city. 
 
 Once there, I was able to meet people from a handful of countries and backgrounds. I met Russians in my first month living in Spain who I previously stereotyped to be loud and rude but who were actually soft-spoken and kind. I met Europeans who couldn't care less about what you wore, your background or your lifestyle. I also met some who did, but they were the varied few. I encountered, learned and grew from people who originated from all walks of life. These people who were all chasing something bigger than themselves.
 
 My perspectives are continuously being challenged and I welcome it. You grow so much by stepping in someone else’s shoes or getting into the same boat. It is a crazy realization that true connections and experiences through the eyes of your brother are what counts most.
 
-N. Forbes Matheis,
-Jamaica
-Website: https://nforbesmatheis.wixsite.com/mysite
-Youtube: https://www.youtube.com/c/NATForIslandLiving
+**N. Forbes Matheis,**<br/>
+Jamaica<br/>
+Website: https://nforbesmatheis.wixsite.com/mysite<br/>
+Youtube: https://www.youtube.com/c/NATForIslandLiving<br/>
 ![PROFILEPIC](/img/natasha.jpg)
 
 **South Africa won my Heart**
@@ -24,10 +25,10 @@ Yet nothing was further from the truth. In South Africa, I was welcomed in sever
 
 
 
-Aneakaleigh Neils, 27,
-Trinidad and Tobago
-Insta: astridoxford
-Website: https://thecaribbeanmillennial.blog/ 
+**Aneakaleigh Neils,**<br/>
+Trinidad and Tobago<br/>
+Insta: astridoxford<br/>
+Website: https://thecaribbeanmillennial.blog/ <br/>
 ![profilepic](/img/aneaka.jpg)
 
 
@@ -39,10 +40,10 @@ My experience living abroad has led me to build relationships with people from n
 
 Travel opens up so many doors for you. In my case, through interacting with people from different walks of life, it has given me a unique perspective on being more comfortable exploring what makes me feel like myself and how to reconnect with self to live a more fulfilled and grounded life.
 
-Kat
-Dallas, Texas
-Insta: : international_kitty
-Website: internationalkitty.com
+**Kat**<br/>
+Dallas, Texas<br/>
+Insta: : international_kitty<br/>
+Website: https://internationalkitty.com<br/>
 ![profilepic](/img/kat.jpg)
 
 I went to an all-girls private school where I graduated with honors. I attended college and then went off to grad school. I moved to a big city and worked at a company that was the leader in my industry. By 30, I thought I knew a few things about life. Then I moved to New York City…
