@@ -14,6 +14,11 @@ export default function Home() {
 
   const posts = [
     {
+      text: "New world perspectives",
+      image: "./img/perspectives.jpg",
+      onClick: () => router.push("/posts/perspectives"),
+    },
+    {
       text: "Perfect Prague",
       image: "./img/prague.jpg",
       onClick: () => router.push("/posts/prague"),
