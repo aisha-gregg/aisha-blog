@@ -6,11 +6,12 @@ Insta: akadventures_90<br/>
 Website: https://aisha-gregg.com<br/>
 ![profilepic](/img/aishaprofileq.jpg)
 
-I have always had so much curiosity dwelling inside me... So much pent up curiosity that I thought I would explode if I did not leave. I felt that I needed to learn about the world and had very much stereotyped different cultures and peoples based on my own upbringing and perspectives. And let’s not forget about what the media portrayed. Going abroad really opened a pleasant worldly vision for me. Back home, my country was known as being ‘diverse’ with a very significant Chinese, Indian and African mixed society. It actually seems slightly humourous now thinking about it. The truth is, I had never known true diversity without first living in a large European city. 
+I have always had so much curiosity dwelling inside me... So much pent up curiosity that I thought I would explode if I did not leave. I felt that I needed to learn about the world and had very much stereotyped different cultures and peoples based on my own upbringing and perspectives. And let’s not forget about what the media portrayed. Going abroad really opened a pleasant worldly vision for me. Back home, my country was known as being ‘diverse’ with a very significant Chinese, Indian and African mixed society. It actually seems slightly humorous now thinking about it. The truth is, I had never known true diversity without first living in a large European city. 
 
 Once there, I was able to meet people from a handful of countries and backgrounds. I met Russians in my first month living in Spain who I previously stereotyped to be loud and rude but who were actually soft-spoken and kind. I met Europeans who couldn't care less about what you wore, your background or your lifestyle. I also met some who did, but they were the varied few. I encountered, learned and grew from people who originated from all walks of life. These people who were all chasing something bigger than themselves.
 
-My perspectives are continuously being challenged and I welcome it. You grow so much by stepping in someone else’s shoes or getting into the same boat. It is a crazy realization that true connections and experiences through the eyes of your brother are what counts most.
+My perspectives are continuously being challenged and you know what?  I welcome it. You grow so much by stepping into someone else’s shoes or getting into the same boat. It is a crazy realization but true connections and experiences seen through the eyes of the people of this world, is what counts most.
+
 
 **N. Forbes Matheis,**<br/>
 Jamaica<br/>
