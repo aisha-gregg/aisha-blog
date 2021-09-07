@@ -43,7 +43,7 @@
     "react-dom": "16.12.0",
     "react-paginate-next": "^7.0.4",
     "remark": "12.0.0",
-    "remark-html": "11.0.1"
+    "remark-html": "13.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
