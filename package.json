@@ -38,7 +38,7 @@
     "classnames": "2.2.6",
     "disqus-react": "1.0.7",
     "gray-matter": "4.0.2",
-    "next": "9.3.6",
+    "next": "11.1.3",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "react-paginate-next": "^7.0.4",
